@@ -664,6 +664,8 @@
     color: #FFFFFF;
     letter-spacing: 0px;
     z-index:999;
+    position: relative;
+    display: block;
   }
   header {
 
@@ -710,6 +712,51 @@
     padding:0 0 5px 0; margin:40px 40px 0 0;
   }
   #homecontact{
+    padding:0 0 5px 0; margin:40px 40px 0 0;
+  }
+  #appabout{
+    padding:0 0 5px 0; margin:40px 40px 0 100px;
+  }
+  #appblog{
+    padding:0 0 5px 0; margin:40px 40px 0 0;
+  }
+  #appcontact{
+    padding:0 0 5px 0; margin:40px 40px 0 0;
+  }
+  #blogabout{
+    padding:0 0 5px 0; margin:40px 40px 0 100px;
+  }
+  #forblog{
+    border-bottom: none; padding:0 0 5px 0; margin:40px 40px 0 0;
+  }
+  #blogcontact{
+    padding:0 0 5px 0; margin:40px 40px 0 0;
+  }
+  #blogsabout{
+    padding:0 0 5px 0; margin:40px 40px 0 100px;
+  }
+  #forblogs{
+    border-bottom:none; padding:0 0 5px 0; margin:40px 40px 0 0;
+  }
+  #blogscontact{
+    padding:0 0 5px 0; margin:40px 40px 0 0;
+  }
+  #contactabout{
+    padding:0 0 5px 0; margin:40px 40px 0 100px;
+  }
+  #contactblog{
+    padding:0 0 5px 0; margin:40px 40px 0 0;
+  }
+  #forcontact{
+    border-bottom: none; padding:0 0 5px 0; margin:40px 40px 0 0;
+  }
+  #thanksabout{
+    padding:0 0 5px 0; margin:40px 40px 0 100px;
+  }
+  #thanksblog{
+    padding:0 0 5px 0; margin:40px 40px 0 0;
+  }
+  #thankscontact{
     padding:0 0 5px 0; margin:40px 40px 0 0;
   }
   #bs-example-navbar-collapse-1 {

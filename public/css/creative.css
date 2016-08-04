@@ -1,8 +1,13 @@
 html, body {
   width: 100%;
   height: 100%;
-  margin-bottom: 0;
-  padding-bottom: 0;
+  /*margin-bottom: 0;
+  padding-bottom: 0;*/
+  max-width:100%;
+  max-height:100%;
+  margin:0;
+  padding:0;
+  overflow-x: hidden;
   font-family: 'AlrightSans-Regular', 'Open Sans', Merriweather, 'Helvetica Neue', Arial, sans-serif;
 }
 @font-face {
@@ -450,6 +455,51 @@ nav {
   padding:0 0 5px 0; margin:40px 40px 0 0;
 }
 #homecontact{
+  padding:0 0 5px 0; margin:40px 0 0 0;
+}
+#appabout{
+  padding:0 0 5px 0; margin:40px 40px 0 100px;
+}
+#appblog{
+  padding:0 0 5px 0; margin:40px 40px 0 0;
+}
+#appcontact{
+  padding:0 0 5px 0; margin:40px 0px 0 0;
+}
+#blogabout{
+  padding:0 0 5px 0; margin:40px 40px 0 100px;
+}
+#forblog{
+  border-bottom: solid 2px #50b74e; padding:0 0 5px 0; margin:40px 40px 0 0;
+}
+#blogcontact{
+  padding:0 0 5px 0; margin:40px 0 0 0;
+}
+#blogsabout{
+  padding:0 0 5px 0; margin:40px 40px 0 100px;
+}
+#forblogs{
+  border-bottom: solid 2px #50b74e; padding:0 0 5px 0; margin:40px 40px 0 0;
+}
+#blogscontact{
+  padding:0 0 5px 0; margin:40px 0 0 0;
+}
+#contactabout{
+  padding:0 0 5px 0; margin:40px 40px 0 100px;
+}
+#contactblog{
+  padding:0 0 5px 0; margin:40px 40px 0 0;
+}
+#forcontact{
+  border-bottom: solid 2px #50b74e; padding:0 0 5px 0; margin:40px 0 0 0;
+}
+#thanksabout{
+  padding:0 0 5px 0; margin:40px 40px 0 100px;
+}
+#thanksblog{
+  padding:0 0 5px 0; margin:40px 40px 0 0;
+}
+#thankscontact{
   padding:0 0 5px 0; margin:40px 0 0 0;
 }
 header {

@@ -1,0 +1,383 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>mailhaven</title>
+    <link>http://localhost:1313/</link>
+    <description>Recent content on mailhaven</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 13 Jul 2016 22:33:30 -0400</lastBuildDate>
+    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>about</title>
+      <link>http://localhost:1313/about/</link>
+      <pubDate>Wed, 13 Jul 2016 22:33:30 -0400</pubDate>
+      
+      <guid>http://localhost:1313/about/</guid>
+      <description>&lt;p&gt;about page content&amp;hellip;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>about app</title>
+      <link>http://localhost:1313/app/</link>
+      <pubDate>Wed, 13 Jul 2016 22:33:30 -0400</pubDate>
+      
+      <guid>http://localhost:1313/app/</guid>
+      <description>&lt;p&gt;app page content&amp;hellip;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>contact</title>
+      <link>http://localhost:1313/contact/</link>
+      <pubDate>Wed, 13 Jul 2016 22:33:30 -0400</pubDate>
+      
+      <guid>http://localhost:1313/contact/</guid>
+      <description>&lt;p&gt;contact page content&amp;hellip;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>mailbox</title>
+      <link>http://localhost:1313/mailbox/</link>
+      <pubDate>Wed, 13 Jul 2016 22:33:30 -0400</pubDate>
+      
+      <guid>http://localhost:1313/mailbox/</guid>
+      <description>&lt;p&gt;mailbox page content&amp;hellip;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>thankyou</title>
+      <link>http://localhost:1313/thank-you/</link>
+      <pubDate>Wed, 13 Jul 2016 22:33:30 -0400</pubDate>
+      
+      <guid>http://localhost:1313/thank-you/</guid>
+      <description>&lt;p&gt;thankyou page content&amp;hellip;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>The Internet of Postal Things</title>
+      <link>http://localhost:1313/blog/the-internet-of-postal-things/</link>
+      <pubDate>Thu, 14 Jul 2016 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/blog/the-internet-of-postal-things/</guid>
+      <description>
+
+&lt;h1 id=&#34;the-internet-of-postal-things&#34;&gt;The Internet of Postal Things&lt;/h1&gt;
+
+&lt;p&gt;It’s the day after Prime Day and there is a strong likelihood that over $1 billion was spent by online consumers. Now the wait begins, couriers are scrambling to get the items you ordered to your front door. A process that requires new innovation and still has some outdated practices, like the challenge of tracking packages real-time. Some packages would arrive the day they are supposed, but close to 20% would have to be taken back for re-delivery.&lt;/p&gt;
+
+&lt;p&gt;Inability to track and the high re-delivery rates cost consumers time, frustration, and money. However, the problem is even larger for couriers and has spawned a new industry — the Internet of Postal Things (IoPT). Before I delve further into the IoPT, it’s worthwhile to mention the industrial revolutions: the first included such innovations like steamboat, water, mechanical production equipment; the second was division of labor, electricity, mass production; and the third which we are more familiar with, is the computer, electronics and the internet. However innovation rarely halts, we are now ushering in the 4th industrial revolution which entails a world where billions of devices are connected to the internet, where man and machine become highly interconnected.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>The Internet of Postal Things</title>
+      <link>http://localhost:1313/blogs/the-internet-of-postal-things/</link>
+      <pubDate>Thu, 14 Jul 2016 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/blogs/the-internet-of-postal-things/</guid>
+      <description>
+
+&lt;h1 id=&#34;the-internet-of-postal-things&#34;&gt;The Internet of Postal Things&lt;/h1&gt;
+
+&lt;p&gt;It’s the day after Prime Day and there is a strong likelihood that over $1 billion was spent by online consumers. Now the wait begins, couriers are scrambling to get the items you ordered to your front door. A process that requires new innovation and still has some outdated practices, like the challenge of tracking packages real-time. Some packages would arrive the day they are supposed, but close to 20% would have to be taken back for re-delivery.&lt;/p&gt;
+
+&lt;p&gt;Inability to track and the high re-delivery rates cost consumers time, frustration, and money. However, the problem is even larger for couriers and has spawned a new industry — the Internet of Postal Things (IoPT). Before I delve further into the IoPT, it’s worthwhile to mention the industrial revolutions: the first included such innovations like steamboat, water, mechanical production equipment; the second was division of labor, electricity, mass production; and the third which we are more familiar with, is the computer, electronics and the internet. However innovation rarely halts, we are now ushering in the 4th industrial revolution which entails a world where billions of devices are connected to the internet, where man and machine become highly interconnected.&lt;/p&gt;
+
+&lt;p&gt;[embed images/iot-postal-industrial-revolution.png]&lt;/p&gt;
+
+&lt;p&gt;Let’s take a look at some applications of the Internet of Things, which is just another way of saying connected devices. Both the consumer and industrial equipment will be connected, there are already 13.4 billion &lt;a href=&#34;http://www.juniperresearch.com/press/press-releases/iot-connected-devices-to-triple-to-38-bn-by-2020&#34;&gt;connected devices in the world&lt;/a&gt; and that number is expected to skyrocket to over 38.5 billion in 2020. You may have a common IoT device such as a FitBit or Nest thermostat, but are you aware of other startups connecting devices to your everyday life?&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://medium.com/u/e593afbfefcc&#34;&gt;Keen Home&lt;/a&gt;: Connected air vents that allows you to regulate temperature room by room.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://august.com/&#34;&gt;August&lt;/a&gt;: Connected smart locks that allow you to unlock and lock your doors using your mobile phone.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://myrevio.com/&#34;&gt;Revio&lt;/a&gt;: A connected device that tracks the location of your motorcycle at all times and monitors it against theft.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://tovala.com/&#34;&gt;Tovala&lt;/a&gt;: A smart oven that cooks chef prepared meals properly.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://petcube.com/&#34;&gt;PetCube&lt;/a&gt;: A smart camera that allows you to monitor and play with your pets when you are not at home.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Other startups are using the analytics they collect from devices to disrupt or augment traditional industries and services. One example is &lt;a href=&#34;http://beam.dental/&#34;&gt;Beam Dental&lt;/a&gt;,their connected toothbrush monitors dental hygiene of the owner and their family. With the data they collect, they are able to give incentives for better dental hygiene by offering discounts to their insurance plans, this is more like a disruption of old models. In the case of augmentation, car insurance service, Progressive uses it’s snapshot device to connect the cars of their insured. They use the device to collect behavioral data, so that people who have less risky driving habits (who, when and how it’s driven)get discounts in their plans. Newcomers to the auto insurance industry, &lt;a href=&#34;http://metromile.com/&#34;&gt;Metromile&lt;/a&gt; take on a very interesting and innovative &lt;a href=&#34;https://en.wikipedia.org/wiki/Usage-based_insurance&#34;&gt;usage based&lt;/a&gt; approach. Their insured only pay on a per use basis, so the less miles you drive a month the lower your payment is, raging from $0.02 — $0.11 per mile. This might all sound like an intrusion of privacy but don’t be worried, the information collected is anonymous.&lt;/p&gt;
+
+&lt;p&gt;IoT in manufacturing is years ahead of consumer tech in terms of use-cases identified and implemented, at least with larger facilities. Think automation at GE or auto plants — all the robots are constantly talking to each other and back to a central system to ID and address issues in real-time. That results in higher quality, less expensive products. But also, fewer humans doing robot job&lt;/p&gt;
+
+&lt;p&gt;The Internet of Postal Things is on the leading edge of the 4th wave, and is on high value because it will greatly affect the way we send and receive packages. This term was coined by the United States Postal Service and IBM in a &lt;a href=&#34;https://www.uspsoig.gov/sites/default/files/document-library-files/2015/rarc-wp-15-013_0.pdf&#34;&gt;joint study&lt;/a&gt;. According to their study, this is instrumenting postal infrastructure with low cost sensors to enable them to collect, communicate and act upon a variety of data thereby generating operational efficiency. It is focused primarily on four areas; Transportation &amp;amp; Logistics, Smarter Postal Buildings, Enhanced mail &amp;amp; Services and Neighborhood Services. In order to focus on the areas that most benefit consumers and shoppers, I’ll address use cases in only two of the areas.&lt;/p&gt;
+
+&lt;h2 id=&#34;real-time-dynamic-routing&#34;&gt;Real time Dynamic Routing&lt;/h2&gt;
+
+&lt;p&gt;About 10 years ago UPS started introducing major IT initiatives to improve it’s efficiency. One of the initiatives is the well know Orion, which involves embedding 200 sensors in each truck to remotely monitor performance, driver behavior and select the most efficient routes. This has helped them save $300 — $400 million in fuel savings annually. Unfortunately USPS still adopts static “georouting” that calculates and selects the shortest routes prior to delivery based on delivery and pick up addresses. With dynamic routing USPS would be able to calculate and change routes on the fly due using new information, like real-time traffic data. They could even allow for new packages on their route to be picked up and delivered, incorporating new services like same day delivery.&lt;/p&gt;
+
+&lt;h2 id=&#34;collaborative-last-mile&#34;&gt;Collaborative Last- Mile&lt;/h2&gt;
+
+&lt;p&gt;With the growth of E-commerce several couriers have seen an increase delivery in routes and most of them drive those same routes daily. This causes inefficiency and has environmental implications. The situation is forecast to get worse as several on-demand players like UberRush, Postmates, LaserShip and others enter the market without any collaboration. The solution proposed is collaborative last-mile, whereby parcels are consolidated in a warehouse and certain providers are assigned to handle the last mile in select areas. This would increase the average package drop per mile, thereby reducing the amount of truck out driving and their related emissions. This is already &lt;a href=&#34;http://postandparcel.info/63493/news/innovation/bpost-set-to-expand-urban-logistics-project-to-brussels/&#34;&gt;being practiced&lt;/a&gt; by the Belgian post office and has contributed to a 30% reduction in number of miles driven.&lt;/p&gt;
+
+&lt;h2 id=&#34;the-connected-mailbox&#34;&gt;The Connected Mailbox&lt;/h2&gt;
+
+&lt;p&gt;Most people share this common enemy task “the trip to the post office” whether it is to ship out an item — &lt;a href=&#34;https://medium.com/u/77a4cbe66223&#34;&gt;Shyp&lt;/a&gt; is currently solving this problem — or even worse going to pick up a missed delivery, a problem we are tackling at &lt;a href=&#34;http://mailhaven.co/&#34;&gt;Mailhaven&lt;/a&gt;. Our app tracks your packages for you while our smart mailbox can authenticate a delivery and receive the package on your behalf . The idea of the connected mailbox is in response to the lack of innovation in the way we receive packages, which has remained relatively unchanged for 100 years. These are either large cluster mailboxes or large single mailboxes equipped with sensors that can validate, collect and share real time package information. Mailboxes that can authenticate that a package is meant for a recipient, accept, safeguard it and unlock at the request of the owner either remotely or in person. Wide adoption of this technology will provide huge operational cost savings for couriers, as well as save recipients a trip to the post office.&lt;/p&gt;
+
+&lt;p&gt;Furthermore, other businesses like groceries who provide delivery stand to gain from this. The idea is a climate controlled smart mailbox will be able to keep perishables fresh and in turn increase the amount of items that can be bought and delivered from an online grocery store. This will reduce the less ecofriendly materials that are currently being used to maintain freshness. The study states that a 5% penetration of US homes with smart mailboxes can generate over $210 million in annual revenue. Value also gets created to retailers who get a closed feedback loop about when their customers receive their packages.&lt;/p&gt;
+
+&lt;p&gt;===&lt;/p&gt;
+
+&lt;p&gt;The way we receive and ship packages will change, postal services will adopt IoPT applications, it will result in cost savings for them and ultimately a better experience for consumers. However, I wonder if the cost savings will be passed on to the consumers? Will shipping prices become cheaper? After all it’s one of the most important criteria to people when shopping online.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>How Communities are Leveraging Technology to Create a Better Quality of Life</title>
+      <link>http://localhost:1313/blog/communities-leveraging-technology/</link>
+      <pubDate>Tue, 14 Jun 2016 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/blog/communities-leveraging-technology/</guid>
+      <description>
+
+&lt;h1 id=&#34;how-communities-are-leveraging-technology-to-create-a-better-quality-of-life&#34;&gt;How Communities are Leveraging Technology to Create a Better Quality of Life&lt;/h1&gt;
+
+&lt;p&gt;Cities, subdivisions and communities are using technology to improve the standard of living and efficiency within their boundaries. Administrators believe that by adopting new technology, they can get a better return on their investment dollars, as opposed to investing in traditional alternatives. While most of these pilots or partnerships are new, we are yet to see comprehensive studies detailing the ROI on these initiatives. However, residents and studies indicate that people are willing to pay more for homes with &lt;a href=&#34;http://www.makeuseof.com/tag/installing-smart-devices-can-increase-homes-value/&#34;&gt;smart technology&lt;/a&gt;, which can contribute to the overall increase in median home values.&lt;/p&gt;
+
+&lt;p&gt;Listed below are some of the ways that communities are using technology to create a better standard of living for their residents.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>How Communities are Leveraging Technology to Create a Better Quality of Life</title>
+      <link>http://localhost:1313/blogs/communities-leveraging-technology/</link>
+      <pubDate>Tue, 14 Jun 2016 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/blogs/communities-leveraging-technology/</guid>
+      <description>
+
+&lt;h1 id=&#34;how-communities-are-leveraging-technology-to-create-a-better-quality-of-life&#34;&gt;How Communities are Leveraging Technology to Create a Better Quality of Life&lt;/h1&gt;
+
+&lt;p&gt;Cities, subdivisions and communities are using technology to improve the standard of living and efficiency within their boundaries. Administrators believe that by adopting new technology, they can get a better return on their investment dollars, as opposed to investing in traditional alternatives. While most of these pilots or partnerships are new, we are yet to see comprehensive studies detailing the ROI on these initiatives. However, residents and studies indicate that people are willing to pay more for homes with &lt;a href=&#34;http://www.makeuseof.com/tag/installing-smart-devices-can-increase-homes-value/&#34;&gt;smart technology&lt;/a&gt;, which can contribute to the overall increase in median home values.&lt;/p&gt;
+
+&lt;p&gt;Listed below are some of the ways that communities are using technology to create a better standard of living for their residents.&lt;/p&gt;
+
+&lt;h2 id=&#34;social-networks&#34;&gt;Social Networks&lt;/h2&gt;
+
+&lt;p&gt;With the growth of social media and its integration into our everyday lives, startups have found a &lt;a href=&#34;http://www.nytimes.com/2015/03/04/technology/nextdoor-a-start-up-social-network-digs-deep-into-neighborhoods.html?_r=0&#34;&gt;unique value proposition&lt;/a&gt; to offer to neighborhoods. Providing the means for neighbors to stay connected to each other and communicate through a social network optimized for them. One example is NextDoor, which currently has 53,000 micro-communities using and connected through its social network. Neighbors are able to interact with each other after getting verified, which helps community-building and keeping everyone informed about the happenings in their communities.&lt;/p&gt;
+
+&lt;h2 id=&#34;car-sharing&#34;&gt;Car Sharing&lt;/h2&gt;
+
+&lt;p&gt;GM introduced a car sharing program, Maven, to communities in Boston and Washignton D.C., in addition to expanding its service in Chicago in May. Through its Maven City Program, residents are able to rent vehicles located around the communities at an hourly rate of $8/hr. This helps increase mobility in neighborhoods and reduce the dependency on car ownership. As the economy shifts, car sharing is beginning to look less like a buzzword and more like a reality. One of the &lt;a href=&#34;http://www.usatoday.com/story/money/cars/2016/05/19/gm-expands-chicago-car-sharing-test-boston-washington/84598658/&#34;&gt;neighborhoods&lt;/a&gt; involved in this initiative is a luxury high-rise apartment in Chicago’s Lakeshore East Neighborhood.&lt;/p&gt;
+
+&lt;h2 id=&#34;theft-deterrent&#34;&gt;Theft Deterrent&lt;/h2&gt;
+
+&lt;p&gt;SmartWater technology provides a traceable forensic mark that links assets and valuables back to a certain address or owner. This means if a burglar steals from a SmartWater protected home and tries to sell the stolen item, or is stopped and searched , the cops can identify that it does not belong to the seller and apprehend the thief. Communities that have placed SmartWater protected signs on their homes have seen a high reduction of burglaries and break-ins. One particular neighborhood, &lt;a href=&#34;http://www.wptv.com/news/region-s-palm-beach-county/boynton-beach/boynton-beach-police-see-burglaries-decrease-in-neighborhoods-using-smartwater-technology&#34;&gt;Seacrest Estates&lt;/a&gt;, saw a 75% decrease.&lt;/p&gt;
+
+&lt;h2 id=&#34;smart-infrastructure&#34;&gt;Smart Infrastructure&lt;/h2&gt;
+
+&lt;p&gt;Some communities are now adopting smart infrastructure to allow their residents to have access to sustainable living without bearing all of the cost burden, an example is the &lt;a href=&#34;http://parkmerced.com/amenities/&#34;&gt;Parkmerced&lt;/a&gt; Townhome and Apartment Complex adjacent to San Francisco State University that made headlines for offering all their tenants a $100 monthly Uber credit. They have electric charging stations located around their community that allows tenants to own electric vehicles without the cost or worry of installing private charging stations.&lt;/p&gt;
+
+&lt;h2 id=&#34;internet-of-postal-things&#34;&gt;Internet of Postal Things&lt;/h2&gt;
+
+&lt;p&gt;With the increase in missed deliveries and stolen packages in suburban homes, communities, and subdivisions, people are looking for solutions to curb this problem and protect packages for their residents. Some have adopted security cameras, which helps as a deterrent but does not stop an intent porch pirate. Others have built central mail lockers systems for the USPS service, however this is exclusive to packages from the U.S. Post Office. My startup, Mailhaven Inc, is currently building smart solar powered and internet connected mailboxes to receive and store packages for absent suburban homeowners. We will start our pilot with a Louisville subdivision in late august. Our hope is that more homeowners adopt this and new subdivisions have this amenity built into new homes to provide value for their residents/home buyers, creating an increased quality of life and reduction in crime.&lt;/p&gt;
+
+&lt;h2 id=&#34;mobility&#34;&gt;Mobility&lt;/h2&gt;
+
+&lt;p&gt;The transportation system in America has been broken for several years, the regional transit budgets have been cut, affecting people living outside of city centers due to reduced transit routes. Taxis have been horribly inefficient with abysmal customer service. This and other reasons led to the rise of on demand car transportation services like Uber to fill the gaps. Communities have found several ways to utilize Uber, some offer free rides on certain days or events to residents in order to drive down DUI cases, others are subsidized fares. &lt;a href=&#34;http://fortune.com/2016/03/03/uber-subsidy-public-transportation/&#34;&gt;Altamonite Springs&lt;/a&gt; has made a bold move to invest in Uber to save money that it would otherwise have invested in building roads or in public transportation. The Orlando suburb will pay a portion of all Uber fares within its city limits. The goal is to get some cars off of the roads and integrate this into its transportation network. They want to encourage people to use its regional commuter train, the Sunrail.&lt;/p&gt;
+
+&lt;p&gt;===&lt;/p&gt;
+
+&lt;p&gt;Investments in technology by communities will payoff and more use cases to promote a better quality of life will be discovered. Communities making these investments will standout, which could reward them with a considerable return on their investment. Furthermore, though some of these benefits are intrinsic and can’t be quantified, it will foster a stronger sense of belonging and affinity to the community from its dwellers. At Mailhaven, we know that people want to be safe and never feel victimized by a package theft. We also want to free up time residents would have spent driving to a post office, so it can’t be spent doing things that matter the most to them or participating in community events.&lt;/p&gt;
+
+&lt;p&gt;If you would like to learn more about what we are doing at Mailhaven to promote prosperity in communities using technology, check us out and sign up for updates.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>The Rise of Porch Pirates</title>
+      <link>http://localhost:1313/blog/the-rise-of-porch-pirates/</link>
+      <pubDate>Tue, 24 May 2016 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/blog/the-rise-of-porch-pirates/</guid>
+      <description>
+
+&lt;h1 id=&#34;the-rise-of-porch-pirates&#34;&gt;The Rise of Porch Pirates&lt;/h1&gt;
+
+&lt;p&gt;Online shopping can be super convenient; you don’t have to leave your home, no waiting in line, or hauling your item several feet to your car. It’s showing no signs of slowing down and there is a lot of from for growth. In 2016 an estimated $327 billion will be spent on online shopping and 192 million US consumer will shop online, spending an average of $1,738. With the convenience of online shopping comes a growing problem, package theft. About 23 million Americans have had their packages stolen from their front door after it has been delivered. It seems porch pirates are riding the waves of increased eCommerce transactions.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>The Rise of Porch Pirates</title>
+      <link>http://localhost:1313/blogs/the-rise-of-porch-pirates/</link>
+      <pubDate>Tue, 24 May 2016 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/blogs/the-rise-of-porch-pirates/</guid>
+      <description>
+
+&lt;h1 id=&#34;the-rise-of-porch-pirates&#34;&gt;The Rise of Porch Pirates&lt;/h1&gt;
+
+&lt;p&gt;Online shopping can be super convenient; you don’t have to leave your home, no waiting in line, or hauling your item several feet to your car. It’s showing no signs of slowing down and there is a lot of from for growth. In 2016 an estimated $327 billion will be spent on online shopping and 192 million US consumer will shop online, spending an average of $1,738. With the convenience of online shopping comes a growing problem, package theft. About 23 million Americans have had their packages stolen from their front door after it has been delivered. It seems porch pirates are riding the waves of increased eCommerce transactions.&lt;/p&gt;
+
+&lt;p&gt;[embed images/porch-pirates-web-trends.jpg]&lt;/p&gt;
+
+&lt;h2 id=&#34;in-the-news&#34;&gt;In The News&lt;/h2&gt;
+
+&lt;p&gt;Along with the increased occurrences are increased reports of package theft, porch pirates have been very cavalier in their operations knowing their success rate is high and the probability they get caught is very low. Packages just sitting in plain sight are not only an easy target for miscreants but also present an opportunity crime that might tempt a person who initially had no intention of swiping a package. Here are some reports of package theft around the country.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://fox40.com/2016/01/22/thief-returns-stolen-package-with-note-sorry-for-the-inconvenience/&#34;&gt;Sacramento&lt;/a&gt;, a Fair Oaks resident had his package stolen, however there was a fortunate twist for the victim. The thief returned the package to the owner after noticing it was meant for a child and also left a note apologizing for his criminal act.&lt;/p&gt;
+
+&lt;p&gt;[embed images/porch-pirates-sorry.gif]&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://www.fox35orlando.com/news/local-news/56472059-story&#34;&gt;Florida&lt;/a&gt;, In the Apopka neighborhood, a lady noticed packages she ordered were not in front of her home after they had been listed as delivered. She went ahead to check her surveillance camera only and noticed that a man drove an impala into her lot, took the first package and came back for the remaining two. Now that’s not giving a damn of any repercussion.&lt;/p&gt;
+
+&lt;p&gt;[embed images/porch-pirates-jackson.gif]&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://www.click2houston.com/news/package-containing-item-worth-40000-stolen-from-doorstep&#34;&gt;Houston&lt;/a&gt;, a North Harris County family had packages stolen from them and one of the stolen packages was worth $40,000. It was a item shipped to her resident by her work/company. The porch pirates in this case where on sort of a spree, they had driven behind the UPS truck stalking it and going after packages after they had been left in front of porches. A sad and brazen showing of the confidence by the thieves because of a broken system of package reception.&lt;/p&gt;
+
+&lt;p&gt;[embed images/porch-pirates-theft.gif]&lt;/p&gt;
+
+&lt;p&gt;Customers have little or no convenient options when it comes to safeguarding their packages, some; have to free up their entire schedule on the day they are expecting a delivery, ship the delivery to a courier depot that they have to pay for the service in some cases and drive to go pick it up. Others use cameras and surveillance systems to try to protect their packages, even some vendors like ring have suggested it as a prevention method. However this is not a real deterrent and most porch pirates disregard the presence of a camera or just cover up their faces. A good analogy can be seen in the video below.&lt;/p&gt;
+
+
+&lt;div style=&#34;position: relative; padding-bottom: 56.25%; padding-top: 30px; height: 0; overflow: hidden;&#34;&gt;
+  &lt;iframe src=&#34;//www.youtube.com/embed/N_25zgKdqI0&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%;&#34; allowfullscreen frameborder=&#34;0&#34;&gt;&lt;/iframe&gt;
+ &lt;/div&gt;
+
+
+&lt;p&gt;Most of these systems just alert you or give you evidence of theft, not prevent it. At Mailhaven we are building your own automated package receptionist that accepts and stores the package for you, good luck pirates trying to pry open our metal unit.&lt;/p&gt;
+
+&lt;p&gt;Check out what we are building and sign up for updates.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>What To Do If Your Package is Stolen</title>
+      <link>http://localhost:1313/blog/what-to-do-if-your-package-is-stolen/</link>
+      <pubDate>Tue, 24 May 2016 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/blog/what-to-do-if-your-package-is-stolen/</guid>
+      <description>
+
+&lt;h1 id=&#34;what-to-do-if-your-package-is-stolen&#34;&gt;What To Do If Your Package is Stolen&lt;/h1&gt;
+
+&lt;p&gt;If you are one of the &lt;a href=&#34;https://medium.com/@Kela/the-rise-of-porch-pirates-da9629f01b43&#34;&gt;23 million&lt;/a&gt; Americans that have had their packages stolen at some point, you already know the frustration and confusion when this happens. As prevalent as this is, there are no real solutions to curb this and most people do not know what to do if they ever become a victim of package theft. Porch pirates are becoming smarter and targeting high income neighborhoods where couriers are accustomed to leaving the packages on the porches.&lt;/p&gt;
+
+&lt;p&gt;It usually works this way; couriers are not able to give the delivery to the recipient because they are absent and so they leave the package sitting on the porch, unsecured, hoping it will still be there whenever the recipients returns. Miscreants who were either trailing the couriers truck or have been driving around looking for packages then strike once no one is in sight. The recipient comes home, finds no package, checks the status online and it says it has been delivered, this is when all the confusion begins. Package theft is a problem we are trying to prevent and solve at my startup mailhaven, with our smart mailbox. Until then here are some things do if you ever have your package stolen, we hope you never have to use these instructions.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>What To Do If Your Package is Stolen</title>
+      <link>http://localhost:1313/blogs/what-to-do-if-your-package-is-stolen/</link>
+      <pubDate>Tue, 24 May 2016 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/blogs/what-to-do-if-your-package-is-stolen/</guid>
+      <description>
+
+&lt;h1 id=&#34;what-to-do-if-your-package-is-stolen&#34;&gt;What To Do If Your Package is Stolen&lt;/h1&gt;
+
+&lt;p&gt;If you are one of the &lt;a href=&#34;https://medium.com/@Kela/the-rise-of-porch-pirates-da9629f01b43&#34;&gt;23 million&lt;/a&gt; Americans that have had their packages stolen at some point, you already know the frustration and confusion when this happens. As prevalent as this is, there are no real solutions to curb this and most people do not know what to do if they ever become a victim of package theft. Porch pirates are becoming smarter and targeting high income neighborhoods where couriers are accustomed to leaving the packages on the porches.&lt;/p&gt;
+
+&lt;p&gt;It usually works this way; couriers are not able to give the delivery to the recipient because they are absent and so they leave the package sitting on the porch, unsecured, hoping it will still be there whenever the recipients returns. Miscreants who were either trailing the couriers truck or have been driving around looking for packages then strike once no one is in sight. The recipient comes home, finds no package, checks the status online and it says it has been delivered, this is when all the confusion begins. Package theft is a problem we are trying to prevent and solve at my startup mailhaven, with our smart mailbox. Until then here are some things do if you ever have your package stolen, we hope you never have to use these instructions.&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Check with your neighbors, roommates or anyone in your household who could have signed and received for your package on your behalf.&lt;/li&gt;
+&lt;li&gt;If you find out no one signed for it and it is indeed missing, call the police and make a report. You want to have yourself covered and have a report for the couriers and retailer/shipper. If there are any cameras installed around your home, try to get access to the footage and review it for any clues.&lt;/li&gt;
+&lt;li&gt;File a missing package claim with the courier; USPS, UPS, FEDEX&lt;/li&gt;
+&lt;li&gt;Contact the sender and ask them to follow up, file a complaint as well, this is usually the best option because they are the ones who hired the courier to perform the delivery. If any evidence is needed you have already filed a stolen report with the police that they can refer to.&lt;/li&gt;
+&lt;li&gt;Wait a couple days and maintain communications with the sender until they get it solved&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;In almost all cases if the package was sent by a retailer like amazon or target, they will go ahead to replace your package for you and have another one sent out. However if this was sent by a friend or individual it is a bit tricky, it might be impossible to get the original package or replace it. Couriers usually insure shipped goods up to $100 and if it has a value over that amount, the shipper should have declared the value and insured the package. In this case the can work with the insurance company to reimburse them or you for the value of the package.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>MailHaven: A smarter way to track, manage and receive packages</title>
+      <link>http://localhost:1313/blog/introducing-mailhaven/</link>
+      <pubDate>Fri, 29 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/blog/introducing-mailhaven/</guid>
+      <description>
+
+&lt;h1 id=&#34;introducing-mailhaven-a-smarter-way-to-track-manage-and-receive-packages&#34;&gt;Introducing MailHaven: A smarter way to track, manage and receive packages&lt;/h1&gt;
+
+&lt;p&gt;New kicks, new tablet, the hottest clothes, and that one thing you’ve been drooling over for the past six months — you order it all online and expect it to arrive on time in perfect condition, but we all know that doesn’t always happen. “Sorry we missed you!” feels more hollow every time you read it. Searching through your email to call the courier gets old. With MailHaven you can shop worry free online, get a better experience between checkout to when you package arrives and know every package will arrive safe ‘n sound, right at home&lt;/p&gt;
+
+&lt;h2 id=&#34;what-is-mailhaven&#34;&gt;What is MailHaven?&lt;/h2&gt;
+
+&lt;p&gt;We are a startup dedicated to solving an archaic and lackluster experience of the last segment of online shopping by providing accountability, security and convenience for our customers. MailHaven is a two phase solution that will change how we shop and usher in a smarter way to organize, track and receive packages.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>MailHaven: A smarter way to track, manage and receive packages</title>
+      <link>http://localhost:1313/blogs/introducing-mailhaven/</link>
+      <pubDate>Fri, 29 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/blogs/introducing-mailhaven/</guid>
+      <description>
+
+&lt;h1 id=&#34;introducing-mailhaven-a-smarter-way-to-track-manage-and-receive-packages&#34;&gt;Introducing MailHaven: A smarter way to track, manage and receive packages&lt;/h1&gt;
+
+&lt;p&gt;New kicks, new tablet, the hottest clothes, and that one thing you’ve been drooling over for the past six months — you order it all online and expect it to arrive on time in perfect condition, but we all know that doesn’t always happen. “Sorry we missed you!” feels more hollow every time you read it. Searching through your email to call the courier gets old. With MailHaven you can shop worry free online, get a better experience between checkout to when you package arrives and know every package will arrive safe ‘n sound, right at home&lt;/p&gt;
+
+&lt;h2 id=&#34;what-is-mailhaven&#34;&gt;What is MailHaven?&lt;/h2&gt;
+
+&lt;p&gt;We are a startup dedicated to solving an archaic and lackluster experience of the last segment of online shopping by providing accountability, security and convenience for our customers. MailHaven is a two phase solution that will change how we shop and usher in a smarter way to organize, track and receive packages.&lt;/p&gt;
+
+&lt;h2 id=&#34;phase-i-the-mobile-app&#34;&gt;Phase I: The Mobile App&lt;/h2&gt;
+
+&lt;p&gt;Do you order online? More than 3 times a month? Do you have an Amazon Prime membership? Are you tired of having to give your personal email to a website that you plan on ordering only once from? Are you fed up with shopping at an online retailer once only to be inundated with several promotional emails from them? Are you worried they might share your personal email information with third party vendors or get breached and expose your email? Would you like a discrete email address optimized for signing up when shopping online? Would you like to end searching through your email for that item you ordered or going through several to access it’s tracking information and status?&lt;/p&gt;
+
+&lt;p&gt;If you have one of these issues, and our bet is that you have had more than one, then we have a solution made for you. The MailHaven app provides a friction-less, one touch experience that allows you to track all your packages from anywhere you shop online. Plus, it allows you to maintain the privacy of your main email address and eliminate spam and clutter in you inbox from online retailers. The experience of email is already tiresome and some people are opting out of email to use other means of communication like Slack, so why wade through spam in your email to track your packages? Our software does the work for you. We provide you with an email address that accepts your order confirmation. It then displays that information in an easy to read format so you can quickly see the information that’s important to you. Our goal is to change the experience after placing an order, to allow you seamlessly manage your current and past order history, receive and manage coupons while maintaining the privacy of your email address.&lt;/p&gt;
+
+&lt;p&gt;[embed image/intro-mh-app]&lt;/p&gt;
+
+&lt;h3 id=&#34;how-it-works&#34;&gt;How it works&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Sign up for a MailHaven account and you will be assigned a MailHaven email account i.e; jane@mlhvn.com to be used for signing up at online retailers or shopping&lt;/li&gt;
+&lt;li&gt;Use this email when shopping or signing up at a new online retailer&lt;/li&gt;
+&lt;li&gt;For online retailers that you are already registered and shopped at in the past, sign in to your account and change your account email to your MailHaven email address&lt;/li&gt;
+&lt;li&gt;Whenever your get an order or shipping confirmation, the email is forwarded to the MailHaven app and it does the rest&lt;/li&gt;
+&lt;li&gt;You can then track the status of your order at the push of a button and get push notifications as the status changes.&lt;/li&gt;
+&lt;li&gt;All information pertaining to the store, order history and available coupons are displayed for you.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;We have trusted online retailers with our email information for decades now, unfortunately our patronage has not translated into discrete use and safe storage of our private information. A good amount of retailers have been careless with the privilege and information we have entrusted them with. They have either sold or shared our information with other vendors, sent us multiple mails and promotions that don’t cater to our needs. They clog our inbox and some continue to use outdated systems that have allowed data breaches. At MailHaven, we will change this experience for good and serve as your automated assistant for online shopping.&lt;/p&gt;
+
+&lt;h2 id=&#34;phase-2-the-hardware&#34;&gt;Phase 2: The Hardware&lt;/h2&gt;
+
+&lt;p&gt;According to a recent report from InsuranceQuotes.com, 23 million Americans have had their &lt;a href=&#34;http://www.nbcnews.com/nightly-news/porch-pirates-driving-package-thefts-holiday-season-n478781&#34;&gt;packages stolen&lt;/a&gt; from their front porch and with an increase in eCommerce shopping we expect this amount to increase. Almost as inconveniencing as package theft are missed deliveries, with up to 20% of most &lt;a href=&#34;https://medium.com/@Kela/dude-where-is-my-package-the-impact-of-missed-deliveries-7cfb4af37c6#.u4gezjdnj&#34;&gt;deliveries missed&lt;/a&gt; at first attempt, this is an experience most of us have had.&lt;/p&gt;
+
+&lt;p&gt;MailHaven is a smart curbside mailbox capable of securing packages for suburban homeowners. It’s about the size of a brick mailbox and can hold most package sizes. Couriers unlock the box by scanning the package tracking barcode via an embedded scanner. Owners can use the MailHaven app on their smartphone or a key to retrieve their package. The MailHaven is solar powered, so it requires no upkeep and it makes it easy to install. Just chop off your current mailbox’s post, slide the MailHaven onto the stub left over, and screw it to the post.&lt;/p&gt;
+
+&lt;p&gt;[embed image/intro-mh-mailbox]&lt;/p&gt;
+
+&lt;p&gt;3-D rendering of the 2nd Mailhaven Prototype&lt;/p&gt;
+
+&lt;h3 id=&#34;how-it-works-1&#34;&gt;How it Works&lt;/h3&gt;
+
+&lt;p&gt;Whenever you shop using your MailHaven credentials, your order details and tracking number is sent to the MailHaven hardware
+We provide a sticker which you can place on your door, that instructs the courier on how to place your package in the MailHaven
+The courier scans the package on your MailHaven, it verifies the package is meant for your address, unlocks, and the courier can deposit your package
+You get an instant notification whenever the door is shut and the package is securely stored
+Open your MailHaven and retrieve your package at your convenience, using the mobile app or a key.
+There is no secure place for packages to be delivered without causing major inconveniences or losses to couriers and recipients. Occasionally packages get stolen and more often, packages do not get left at home because a signature is required or the courier refuses to leave the package due to previous theft problems. Some people get their deliveries shipped to work, but at the loss of privacy and creating an inconvenience for their employer. Others buy security cameras to act as a deterrent, or at least to identify thieves, but this solution doesn’t actually remove the opportunity for crime. Some people give their garage codes to couriers so they can leave their packages in the garage, while other have make-shift unsecure boxes that they request couriers to leave their packages inside. Our goal is to take away the inconvenience, provide security and accountability with MailHaven. We know our solution works and can’t wait to get it into the hands of most Americans.&lt;/p&gt;
+
+&lt;h2 id=&#34;our-progress&#34;&gt;Our Progress&lt;/h2&gt;
+
+&lt;p&gt;We have completed an alpha version of our application and have started development of our beta version that will be available to iOS users, you can sign up for access at our website . We completed the construction of the first minimum viable product (MVP) of the MailHaven hardware late last year and have been iterating since then, you can take a look at it below:&lt;/p&gt;
+
+
+&lt;div style=&#34;position: relative; padding-bottom: 56.25%; padding-top: 30px; height: 0; overflow: hidden;&#34;&gt;
+  &lt;iframe src=&#34;//www.youtube.com/embed/jEvZkDRPCdo&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%;&#34; allowfullscreen frameborder=&#34;0&#34;&gt;&lt;/iframe&gt;
+ &lt;/div&gt;
+
+
+&lt;p&gt;Our second fully functional prototype will be delivered to the first customers that pre-ordered within the next few weeks, with subsequent orders fulfilled over the following months. We are excited to see how our customers use this prototype, so we can interate from their feedback with the hope of launching a complete highly aesthetic, fully functional product in 2017.&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;To learn more, get access to beta and get in the queue to particpate in the next pre-orders make sure you &lt;a href=&#34;http://www.mailhaven.co&#34;&gt;sign up here&lt;/a&gt;.&lt;/em&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

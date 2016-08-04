@@ -1,0 +1,85 @@
+baseurl = "http://localhost:1313/"
+languageCode = "en-us"
+title = "mailhaven"
+theme = "mh"
+SectionPagesMenu = "main"
+
+
+
+
+
+[params]
+
+
+	name = "Mail Haven"
+	description = "MailHaven is a smart mailbox that tracks and protects your packages."
+
+	# The path must be relative to the static folder
+	favicon = "favicon.ico"
+
+
+	# Navigation
+	[params.navigation]
+		brand = '<img src="/img/Logo 170w.png">'
+
+		[params.navigation.links]
+			about     = "About"
+			blog  = "Blog"
+			contact   = "Contact"
+
+
+
+
+	# Hero section
+	[params.hero]
+		# To change the background of the hero section, replace the 'header.jpg' at './static/img' with your own.
+		slogan     = "MailHaven is a smart mailbox that tracks and protects your packages."
+		subtitle   = "No more missed deliveries. No more stolen packages. Are you ready for the next evolution in package delivery?"
+		buttonText = "Learn More"
+		altButton="Download App"
+		subtitleImage='<img src="/img/MH-MOBILE-App-Tracking-Mockup.png">'
+
+		[params.thanksheader]
+			# To change the background of the hero section, replace the 'header.jpg' at './static/img' with your own.
+			slogan     = "Thank You!"
+			subtitle   = "No more missed deliveries. No more stolen packages. Are you ready for the next evolution in package delivery?"
+			buttonText = "Learn More"
+			altButton="Download App"
+
+
+	# About section
+	[params.about]
+		leftHeading="The App"
+		leftSubtitle="Real-time package tracking, enhanced."
+		leftContent="The MailHaven app for iOS allows you to manage your online purchases and track shipments with ease. Use MailHaven when shopping to automatically track your purchases, discover where your packages are in the shipping process, as well as receive exclusive deals from the retailers you already know and love."
+		leftButton="Explore the App"
+		rightHeading="The Mailbox"
+		rightSubtitle="Delivering peace of mind 24/7."
+		rightContent="MailHaven’s smart, IoT-enabled mailbox protects your packages and alerts you when they arrive. Deliveries are protected from thieves and nature’s elements alike, ensuring that your package is safe and sound until you get home. Are you ready for a hassle-free delivery experience?"
+		rightButton="How It Works"
+		leftImage='<img src="/img/Assets/TheApp.png">'
+		rightImage='<img src="/img/Assets/TheHardware.png">'
+
+			[params.aboutheader]
+			aboutHeading="About MailHaven"
+			aboutSubtitle="MailHaven is a smart mailbox that tracks and protects your packages. The MailHaven app for iOS allows you to manage your online purchases and track your shipments -- all in one place. No more cluttered inboxes, lost tracking codes, or missed deliveries. When used along with the MailHaven smart mailbox, you unlock the ultimate online shopping experience with automatic tracking, protection from the elements, and notifications the instant your package arrives."
+
+			[params.aboutproduct]
+			leftHeading="Our Software"
+			leftContent="Enhance the way you shop with MailHaven for iOS, our package tracking app and online shopping assistant. Automatically track your deliveries, find out where your packages are in the shipping process, receive real-time delivery notifications, and discover exclusive deals from retailers you already know and love."
+			leftButton="About the App"
+			rightHeading="Our Hardware"
+			rightContent="Protect your packages and get alerted whenever they’re delivered. MailHaven’s smart mailbox can integrate with our iOS app in addition to acting as a secure, standalone residential mailbox. Deliveries are protected from thieves and nature’s elements alike, ensuring that your package is safe and sound until you get home."
+			rightButton="About the Mailbox"
+			aboutTitle="Every Package Matters"
+			aboutSubtitle="Track packages, get delivery alerts, and keep your parcels safe."
+
+
+	# Service section
+	[params.services]
+	backImage='<img src="/img/Form Background 1440w.png">'
+	social='Check us out on social media.'
+	formHeading="Secure your position for our beta release!"
+	formSubtitle="Ready to experience MailHaven? Sign-up to secure your spot for MailHaven’s upcoming app and mailbox beta release."
+	formButton="Secure Your Spot"
+	facebookicon='<img src="http://placehold.it/350x150">'

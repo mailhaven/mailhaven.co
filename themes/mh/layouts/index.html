@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="{{ with .Site.LanguageCode }}{{ . }}{{ else }}en-US{{ end }}">
+    <head>
+        {{ partial "head.html" . }}
+    </head>
+    <body id="page-top">
+
+        <!-- Google Tag Manager -->
+          <noscript><iframe src="//www.googletagmanager.com/ns.html?id=GTM-NSDS6J"
+          height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+          <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+          new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+          j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+          '//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+          })(window,document,'script','dataLayer','GTM-NSDS6J');</script>
+        <!-- End Google Tag Manager -->
+        
+
+
+        {{ partial "home_header.html" . }}
+        {{ partial "home_product.html" . }}
+        {{ partial "home_cta.html" . }}
+        {{ partial "footer.html" . }}
+    </body>
+</html>

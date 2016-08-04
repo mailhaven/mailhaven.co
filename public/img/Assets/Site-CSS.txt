@@ -1,0 +1,1179 @@
+CSS ATTRIBUTES
+
+
+HOME PAGE
+
+/* Bitmap: */
+/* Rectangle 2: */
+background: #4A4A4A;
+background-image: radial-gradient(95% 2%, rgba(255,255,255,0.38) 0%, rgba(0,0,0,0.50) 100%);
+/* Rectangle 20: */
+background: #FFFFFF;
+box-shadow: 0px 0px 6px 1px rgba(0,0,0,0.50);
+/* Line: */
+opacity: 0.3;
+border: 1px solid #979797;
+/* Footer: */
+/* Button: */
+/* Button: */
+/* Button: */
+/* About          Featu: */
+opacity: 0.69;
+font-family: AlrightSans-Regular;
+font-size: 16px;
+color: #FFFFFF;
+letter-spacing: 0px;
+/* Sign In Button: */
+/* Fill 1: */
+background: #188441;
+/* Fill 2: */
+background: #188441;
+/* Fill 3: */
+background: #50B74E;
+/* Fill 4: */
+background: #50B74E;
+/* Fill 5: */
+background: #F9F9F9;
+/* Fill 6: */
+background: #F9F9F9;
+/* MH-App-01: */
+box-shadow: 0px 3px 6px 0px rgba(0,0,0,0.50);
+/* Line: */
+opacity: 0.1;
+border: 1px solid #FFFFFF;
+/* Mailhaven is a smart: */
+font-family: AlrightSans-Light;
+font-size: 34px;
+color: #FFFFFF;
+letter-spacing: 0px;
+line-height: 38px;
+text-shadow: 0px 2px 2px rgba(0,0,0,0.20);
+/* Vestibulum rutrum qu: */
+font-family: AlrightSans-Light;
+font-size: 24px;
+color: #FFFFFF;
+letter-spacing: 0px;
+line-height: 30px;
+text-shadow: 0px 2px 2px rgba(0,0,0,0.20);
+/* In hac habitasse pla: */
+font-family: AlrightSans-Light;
+font-size: 16px;
+color: rgba(31,36,37,0.75);
+letter-spacing: 0px;
+line-height: 30px;
+/* We have a revolution: */
+font-family: AlrightSans-Light;
+font-size: 22px;
+color: #4D4D4D;
+letter-spacing: 0px;
+line-height: 30px;
+/* Mask: */
+background: #D8D8D8;
+/* Bitmap: */
+/* Our Software: */
+font-family: AlrightSans-Light;
+font-size: 36px;
+color: #1F2526;
+letter-spacing: 0px;
+/* Button: */
+/* lorem text: */
+font-family: AlrightSans-Light;
+font-size: 16px;
+color: rgba(31,36,37,0.75);
+letter-spacing: 0px;
+line-height: 30px;
+/* We have a revolution: */
+font-family: AlrightSans-Light;
+font-size: 22px;
+color: #4D4D4D;
+letter-spacing: 0px;
+line-height: 30px;
+/* Mask: */
+background: #D8D8D8;
+/* Mask: */
+background: #7ED321;
+/* Bitmap: */
+/* Our Hardware: */
+font-family: AlrightSans-Light;
+font-size: 36px;
+color: #1F2526;
+letter-spacing: 0px;
+/* Hardware Icon: */
+/* Software Icon: */
+/* Rectangle 7: */
+background: #000000;
+background-image: radial-gradient(100% -46%, rgba(255,255,255,0.50) 0%, rgba(0,0,0,0.50) 100%);
+/* Button: */
+/* Rectangle 12: */
+background: #FFFFFF;
+border: 1px solid #4A4A4A;
+/* Email Address       : */
+font-family: AlrightSans-Light;
+font-size: 16px;
+color: #4A4A4A;
+letter-spacing: 0px;
+/* Rectangle 12: */
+background: #FFFFFF;
+border: 1px solid #4A4A4A;
+/* First Name: */
+font-family: AlrightSans-Light;
+font-size: 16px;
+color: #4A4A4A;
+letter-spacing: 0px;
+/* Rectangle 12: */
+background: #FFFFFF;
+border: 1px solid #4A4A4A;
+/* Last Name: */
+font-family: AlrightSans-Light;
+font-size: 16px;
+color: #4A4A4A;
+letter-spacing: 0px;
+/* Secure your position: */
+font-family: AlrightSans-Light;
+font-size: 30px;
+color: #FFFFFF;
+letter-spacing: 0px;
+line-height: 34px;
+/* We’ll notify you as : */
+font-family: AlrightSans-Light;
+font-size: 18px;
+color: #FFFFFF;
+letter-spacing: 0px;
+line-height: 26px;
+/* Fill 1: */
+background: #188441;
+/* Fill 2: */
+background: #188441;
+/* Fill 3: */
+background: #50B74E;
+/* Fill 4: */
+background: #50B74E;
+/* Fill 5: */
+background: #F9F9F9;
+/* Fill 6: */
+background: #F9F9F9;
+/* Rectangle 7: */
+background-image: linear-gradient(26deg, #88DC86 0%, #50B74E 95%);
+box-shadow: 0px 0px 6px 1px rgba(0,0,0,0.50);
+/* Check us out on soci: */
+font-family: AlrightSans-Light;
+font-size: 34px;
+color: #FFFFFF;
+letter-spacing: 0px;
+text-shadow: 0px 2px 1px rgba(0,0,0,0.20);
+/* Facebook Icon: */
+/* Twitter Icon: */
+/* Insta Icon: */
+
+
+===========================================================
+
+ABOUT   
+
+/* Rectangle 2: */
+background: #4A4A4A;
+background-image: radial-gradient(95% 2%, rgba(255,255,255,0.38) 0%, rgba(0,0,0,0.50) 100%);
+/* About          Featu: */
+opacity: 0.69;
+font-family: AlrightSans-Regular;
+font-size: 16px;
+color: #FFFFFF;
+letter-spacing: 0px;
+/* Sign In: */
+font-family: AlrightSans-Regular;
+font-size: 16px;
+color: #FFFFFF;
+letter-spacing: 0px;
+/* Rectangle 2: */
+border: 1px solid #FFFFFF;
+border-radius: 20px;
+/* Fill 1: */
+background: #188441;
+/* Fill 2: */
+background: #188441;
+/* Fill 3: */
+background: #50B74E;
+/* Fill 4: */
+background: #50B74E;
+/* Fill 5: */
+background: #F9F9F9;
+/* Fill 6: */
+background: #F9F9F9;
+/* Line: */
+opacity: 0.1;
+border: 1px solid #FFFFFF;
+/* Bitmap: */
+/* Rectangle 18: */
+background-image: radial-gradient(23% 103%, rgba(0,0,0,0.00) 36%, rgba(0,0,0,0.07) 60%, #000000 99%);
+/* Line: */
+border: 2px solid #50B74E;
+/* Mauris non tempor qu: */
+font-family: AlrightSans-Regular;
+font-size: 20px;
+color: #FFFFFF;
+letter-spacing: 0px;
+line-height: 32px;
+text-shadow: 0px 2px 2px rgba(0,0,0,0.20);
+/* About Mail Haven: */
+font-family: AlrightSans-Light;
+font-size: 34px;
+color: #FFFFFF;
+letter-spacing: 0px;
+text-shadow: 0px 2px 2px rgba(0,0,0,0.20);
+/* Rectangle 7: */
+background-image: radial-gradient(100% -9%, #88DC86 0%, #82D980 9%, #58BC56 70%, #58BC56 86%, #50B74E 100%);
+/* Nam porttitor blandi: */
+font-family: AlrightSans-Medium;
+font-size: 18px;
+color: #FFFFFF;
+letter-spacing: 0px;
+line-height: 30px;
+text-shadow: 0px 1px 1px rgba(0,0,0,0.30);
+/* Clock Icon: */
+/* Mauris turpis nisl, : */
+font-family: AlrightSans-Medium;
+font-size: 18px;
+color: #FFFFFF;
+letter-spacing: 0px;
+line-height: 30px;
+text-shadow: 0px 1px 1px rgba(0,0,0,0.30);
+/* Van Icon: */
+/* Mauris non tempor  q: */
+font-family: AlrightSans-Medium;
+font-size: 18px;
+color: #FFFFFF;
+letter-spacing: 0px;
+line-height: 30px;
+text-shadow: 0px 1px 1px rgba(0,0,0,0.30);
+/* Important Icon: */
+/* Rectangle 7: */
+background: #FFFFFF;
+box-shadow: 0px 0px 6px 1px rgba(0,0,0,0.50);
+/* Our Team: */
+font-family: AlrightSans-Light;
+font-size: 34px;
+color: #4D4D4D;
+letter-spacing: 0px;
+/* Mask: */
+background: #D8D8D8;
+/* Bitmap: */
+/* Kela Ivonye: */
+font-family: AlrightSans-Light;
+font-size: 30px;
+color: #4D4D4D;
+letter-spacing: 0px;
+line-height: 30px;
+/* Company Role: */
+font-family: AlrightSans-LightItalic;
+font-size: 18px;
+color: #9B9B9B;
+letter-spacing: 0px;
+line-height: 30px;
+/* Curabitur lobortis i: */
+font-family: AlrightSans-Light;
+font-size: 16px;
+color: #4D4D4D;
+letter-spacing: 0px;
+line-height: 26px;
+/* : */
+font-family: FontAwesome;
+font-size: 25px;
+color: #50B74E;
+letter-spacing: 0px;
+/* instagram - FontAwesome: */
+font-family: FontAwesome;
+font-size: 22px;
+color: #50B74E;
+letter-spacing: 0px;
+/* Mask: */
+background: #D8D8D8;
+/* Bitmap: */
+/* Kela Ivonye: */
+font-family: AlrightSans-Light;
+font-size: 30px;
+color: #4D4D4D;
+letter-spacing: 0px;
+line-height: 30px;
+/* Company Role: */
+font-family: AlrightSans-LightItalic;
+font-size: 18px;
+color: #9B9B9B;
+letter-spacing: 0px;
+line-height: 30px;
+/* Curabitur lobortis i: */
+font-family: AlrightSans-Light;
+font-size: 16px;
+color: #4D4D4D;
+letter-spacing: 0px;
+line-height: 26px;
+/* : */
+font-family: FontAwesome;
+font-size: 25px;
+color: #50B74E;
+letter-spacing: 0px;
+/* Mask: */
+background: #D8D8D8;
+/* Bitmap: */
+/* Dave Durand: */
+font-family: AlrightSans-Light;
+font-size: 30px;
+color: #4D4D4D;
+letter-spacing: 0px;
+line-height: 30px;
+/* Company Role: */
+font-family: AlrightSans-LightItalic;
+font-size: 18px;
+color: #9B9B9B;
+letter-spacing: 0px;
+line-height: 30px;
+/* Curabitur lobortis i: */
+font-family: AlrightSans-Light;
+font-size: 16px;
+color: #4D4D4D;
+letter-spacing: 0px;
+line-height: 26px;
+/* : */
+font-family: FontAwesome;
+font-size: 25px;
+color: #50B74E;
+letter-spacing: 0px;
+/* instagram - FontAwesome: */
+font-family: FontAwesome;
+font-size: 22px;
+color: #50B74E;
+letter-spacing: 0px;
+/* Bitmap: */
+/* Rectangle 24: */
+background: #4D4D4D;
+/* Rectangle 24: */
+background-image: linear-gradient(-254deg, rgba(0,0,0,0.00) 0%, rgba(0,0,0,0.10) 17%, rgba(0,0,0,0.69) 60%);
+/* Vitae fringilla tinc: */
+font-family: AlrightSans-Regular;
+font-size: 18px;
+color: #FFFFFF;
+letter-spacing: 0px;
+line-height: 28px;
+text-shadow: 0px 2px 2px rgba(0,0,0,0.79);
+/* Vestibulum rutrum qu: */
+font-family: AlrightSans-Medium;
+font-size: 22px;
+color: #FFFFFF;
+letter-spacing: 0px;
+line-height: 24px;
+text-shadow: 0px 2px 2px rgba(0,0,0,0.79);
+/* Mauris accumsan eros: */
+font-family: AlrightSans-Regular;
+font-size: 18px;
+color: #FFFFFF;
+letter-spacing: 0px;
+line-height: 30px;
+text-shadow: 0px 2px 2px rgba(0,0,0,0.79);
+/* Mauris non tempor qu: */
+font-family: AlrightSans-Medium;
+font-size: 22px;
+color: #FFFFFF;
+letter-spacing: 0px;
+line-height: 24px;
+text-shadow: 0px 2px 2px rgba(0,0,0,0.79);
+/* Our Hardware: */
+font-family: AlrightSans-Light;
+font-size: 34px;
+color: #FFFFFF;
+letter-spacing: 0px;
+/* Rectangle 24: */
+background-image: linear-gradient(22deg, #D6D6D6 0%, #FFFFFF 96%);
+box-shadow: 0px 0px 6px 1px rgba(0,0,0,0.50);
+/* MH-trackering-app-03: */
+box-shadow: 0px 3px 6px 0px rgba(0,0,0,0.50);
+/* Lock Icon: */
+/* Line: */
+border: 1px solid #E2E2E2;
+/* Line: */
+border: 1px solid #E2E2E2;
+/* We offer a security : */
+font-family: AlrightSans-Light;
+font-size: 18px;
+color: #4D4D4D;
+letter-spacing: 0px;
+line-height: 26px;
+/* Vitae fringilla tinc: */
+font-family: AlrightSans-Light;
+font-size: 16px;
+color: #4D4D4D;
+letter-spacing: 0px;
+line-height: 24px;
+/* Vestibulum rutrum qu: */
+font-family: AlrightSans-Regular;
+font-size: 20px;
+color: #4D4D4D;
+letter-spacing: 0px;
+line-height: 24px;
+/* Aliquam eget odio se: */
+font-family: AlrightSans-Light;
+font-size: 16px;
+color: #4D4D4D;
+letter-spacing: 0px;
+line-height: 24px;
+/* Donec quis ornare la: */
+font-family: AlrightSans-Regular;
+font-size: 20px;
+color: #4D4D4D;
+letter-spacing: 0px;
+line-height: 24px;
+/* Mauris accumsan eros: */
+font-family: AlrightSans-Light;
+font-size: 16px;
+color: #4D4D4D;
+letter-spacing: 0px;
+line-height: 24px;
+/* Mauris non tempor qu: */
+font-family: AlrightSans-Regular;
+font-size: 20px;
+color: #4D4D4D;
+letter-spacing: 0px;
+line-height: 24px;
+/* Button: */
+/* Button: */
+/* Our Software: */
+font-family: AlrightSans-Light;
+font-size: 34px;
+color: #4D4D4D;
+letter-spacing: 0px;
+/* Rectangle 24: */
+background-image: linear-gradient(22deg, #D6D6D6 0%, #FFFFFF 96%);
+box-shadow: 0px 0px 6px 1px rgba(0,0,0,0.50);
+/* Rectangle 7: */
+background: #000000;
+background-image: radial-gradient(100% -46%, rgba(255,255,255,0.50) 0%, rgba(0,0,0,0.50) 100%);
+/* Button: */
+/* Rectangle 12: */
+background: #FFFFFF;
+border: 1px solid #4A4A4A;
+/* Email Address       : */
+font-family: AlrightSans-Light;
+font-size: 16px;
+color: #4A4A4A;
+letter-spacing: 0px;
+/* Rectangle 12: */
+background: #FFFFFF;
+border: 1px solid #4A4A4A;
+/* First Name: */
+font-family: AlrightSans-Light;
+font-size: 16px;
+color: #4A4A4A;
+letter-spacing: 0px;
+/* Rectangle 12: */
+background: #FFFFFF;
+border: 1px solid #4A4A4A;
+/* Last Name: */
+font-family: AlrightSans-Light;
+font-size: 16px;
+color: #4A4A4A;
+letter-spacing: 0px;
+/* Secure your position: */
+font-family: AlrightSans-Light;
+font-size: 30px;
+color: #FFFFFF;
+letter-spacing: 0px;
+line-height: 34px;
+/* We’ll notify you as : */
+font-family: AlrightSans-Light;
+font-size: 18px;
+color: #FFFFFF;
+letter-spacing: 0px;
+line-height: 26px;
+/* Fill 1: */
+background: #188441;
+/* Fill 2: */
+background: #188441;
+/* Fill 3: */
+background: #50B74E;
+/* Fill 4: */
+background: #50B74E;
+/* Fill 5: */
+background: #F9F9F9;
+/* Fill 6: */
+background: #F9F9F9;
+/* lorem text: */
+font-family: AlrightSans-Light;
+font-size: 16px;
+color: rgba(31,36,37,0.75);
+letter-spacing: 0px;
+line-height: 30px;
+/* We have a revolution: */
+font-family: AlrightSans-Light;
+font-size: 22px;
+color: #4D4D4D;
+letter-spacing: 0px;
+line-height: 30px;
+/* Our Hardware: */
+font-family: AlrightSans-Light;
+font-size: 36px;
+color: #1F2526;
+letter-spacing: 0px;
+/* Oval 2: */
+background: #50B74E;
+border: 10px solid #FFFFFF;
+/* home - FontAwesome: */
+font-family: FontAwesome;
+font-size: 80px;
+color: #FFFFFF;
+letter-spacing: 0px;
+/* Rectangle 20: */
+background: #FFFFFF;
+box-shadow: 0px 0px 6px 1px rgba(0,0,0,0.50);
+/* In hac habitasse pla: */
+font-family: AlrightSans-Light;
+font-size: 16px;
+color: rgba(31,36,37,0.75);
+letter-spacing: 0px;
+line-height: 30px;
+/* We have a revolution: */
+font-family: AlrightSans-Light;
+font-size: 22px;
+color: #4D4D4D;
+letter-spacing: 0px;
+line-height: 30px;
+/* Mask: */
+background: #D8D8D8;
+/* Bitmap: */
+/* Our Software: */
+font-family: AlrightSans-Light;
+font-size: 36px;
+color: #1F2526;
+letter-spacing: 0px;
+/* Oval 2: */
+background: #50B74E;
+border: 10px solid #FFFFFF;
+/* : */
+font-family: FontAwesome;
+font-size: 100px;
+color: #FFFFFF;
+letter-spacing: 0px;
+/* We have a revolution: */
+font-family: AlrightSans-Light;
+font-size: 26px;
+color: #4D4D4D;
+letter-spacing: 0px;
+line-height: 36px;
+/* Every Package Matter: */
+font-family: AlrightSans-Light;
+font-size: 48px;
+color: #1F2526;
+letter-spacing: 0px;
+/* Package Icon: */
+/* lorem text: */
+font-family: AlrightSans-Light;
+font-size: 16px;
+color: rgba(31,36,37,0.75);
+letter-spacing: 0px;
+line-height: 30px;
+/* We have a revolution: */
+font-family: AlrightSans-Light;
+font-size: 22px;
+color: #4D4D4D;
+letter-spacing: 0px;
+line-height: 30px;
+/* Mask: */
+background: #D8D8D8;
+/* Mask: */
+background: #7ED321;
+/* Bitmap: */
+/* Our Hardware: */
+font-family: AlrightSans-Light;
+font-size: 36px;
+color: #1F2526;
+letter-spacing: 0px;
+/* Oval 2: */
+background: #50B74E;
+border: 10px solid #FFFFFF;
+/* home - FontAwesome: */
+font-family: FontAwesome;
+font-size: 80px;
+color: #FFFFFF;
+letter-spacing: 0px;
+/* Footer: */
+
+
+
+===========================================================
+
+THANK YOU PAGE
+
+/* Rectangle 2: */
+background: #4A4A4A;
+background-image: radial-gradient(95% 2%, rgba(255,255,255,0.38) 0%, rgba(0,0,0,0.50) 100%);
+/* Footer: */
+/* About          Featu: */
+opacity: 0.69;
+font-family: AlrightSans-Regular;
+font-size: 16px;
+color: #FFFFFF;
+letter-spacing: 0px;
+/* Sign In: */
+font-family: AlrightSans-Regular;
+font-size: 16px;
+color: #FFFFFF;
+letter-spacing: 0px;
+/* Rectangle 2: */
+border: 1px solid #FFFFFF;
+border-radius: 20px;
+/* Fill 1: */
+background: #188441;
+/* Fill 2: */
+background: #188441;
+/* Fill 3: */
+background: #50B74E;
+/* Fill 4: */
+background: #50B74E;
+/* Fill 5: */
+background: #F9F9F9;
+/* Fill 6: */
+background: #F9F9F9;
+/* Line: */
+opacity: 0.1;
+border: 1px solid #FFFFFF;
+/* Rectangle 7: */
+background-image: linear-gradient(26deg, #88DC86 0%, #50B74E 95%);
+box-shadow: 0px 0px 6px 1px rgba(0,0,0,0.50);
+/* Check us out on soci: */
+font-family: AlrightSans-Light;
+font-size: 34px;
+color: #FFFFFF;
+letter-spacing: 0px;
+text-shadow: 0px 2px 1px rgba(0,0,0,0.20);
+/* : */
+font-family: Ionicons;
+font-size: 60px;
+color: #FFFFFF;
+letter-spacing: 0px;
+/* Rectangle 17: */
+border: 6px solid #FFFFFF;
+border-radius: 60px;
+/* : */
+font-family: FontAwesome;
+font-size: 60px;
+color: #FFFFFF;
+letter-spacing: 0px;
+/* Rectangle 17: */
+border: 6px solid #FFFFFF;
+border-radius: 60px;
+/* instagram - FontAwesome: */
+font-family: FontAwesome;
+font-size: 50px;
+color: #FFFFFF;
+letter-spacing: 0px;
+/* Rectangle 17: */
+border: 6px solid #FFFFFF;
+border-radius: 60px;
+/* Rectangle 24: */
+background-image: linear-gradient(22deg, #D6D6D6 0%, #FFFFFF 96%);
+box-shadow: 0px 0px 6px 1px rgba(0,0,0,0.50);
+/* MH-trackering-app-03: */
+box-shadow: 0px 3px 6px 0px rgba(0,0,0,0.50);
+/* Mauris accumsan eros: */
+font-family: AlrightSans-Light;
+font-size: 18px;
+color: #4D4D4D;
+letter-spacing: 0px;
+line-height: 30px;
+/* Button: */
+/* Thank You!: */
+font-family: AlrightSans-Light;
+font-size: 40px;
+color: #4D4D4D;
+letter-spacing: 0px;
+/* Button: */
+
+
+===========================================================
+CONTACT US 
+
+
+/* Rectangle 2: */
+background: #4A4A4A;
+background-image: radial-gradient(95% 2%, rgba(255,255,255,0.38) 0%, rgba(0,0,0,0.50) 100%);
+/* Footer: */
+/* About          Featu: */
+opacity: 0.69;
+font-family: AlrightSans-Regular;
+font-size: 16px;
+color: #FFFFFF;
+letter-spacing: 0px;
+/* Line: */
+border: 2px solid #50B74E;
+/* Sign In: */
+font-family: AlrightSans-Regular;
+font-size: 16px;
+color: #FFFFFF;
+letter-spacing: 0px;
+/* Rectangle 2: */
+border: 1px solid #FFFFFF;
+border-radius: 20px;
+/* Fill 1: */
+background: #188441;
+/* Fill 2: */
+background: #188441;
+/* Fill 3: */
+background: #50B74E;
+/* Fill 4: */
+background: #50B74E;
+/* Fill 5: */
+background: #F9F9F9;
+/* Fill 6: */
+background: #F9F9F9;
+/* Line: */
+opacity: 0.1;
+border: 1px solid #FFFFFF;
+/* Rectangle 7: */
+background-image: linear-gradient(26deg, #88DC86 0%, #50B74E 95%);
+box-shadow: 0px 0px 6px 1px rgba(0,0,0,0.50);
+/* Check us out on soci: */
+font-family: AlrightSans-Light;
+font-size: 34px;
+color: #FFFFFF;
+letter-spacing: 0px;
+text-shadow: 0px 2px 1px rgba(0,0,0,0.20);
+/* : */
+font-family: Ionicons;
+font-size: 60px;
+color: #FFFFFF;
+letter-spacing: 0px;
+/* Rectangle 17: */
+border: 6px solid #FFFFFF;
+border-radius: 60px;
+/* : */
+font-family: FontAwesome;
+font-size: 60px;
+color: #FFFFFF;
+letter-spacing: 0px;
+/* Rectangle 17: */
+border: 6px solid #FFFFFF;
+border-radius: 60px;
+/* instagram - FontAwesome: */
+font-family: FontAwesome;
+font-size: 50px;
+color: #FFFFFF;
+letter-spacing: 0px;
+/* Rectangle 17: */
+border: 6px solid #FFFFFF;
+border-radius: 60px;
+/* Rectangle 24: */
+background-image: linear-gradient(26deg, #D9D9D9 0%, #F0F0F0 45%, #FFFFFF 95%);
+box-shadow: 0px 0px 6px 1px rgba(0,0,0,0.50);
+/* Button: */
+/* Rectangle 12: */
+background: #FFFFFF;
+border: 1px solid #4A4A4A;
+/* Email Address       : */
+font-family: AlrightSans-Light;
+font-size: 16px;
+color: #4A4A4A;
+letter-spacing: 0px;
+/* Rectangle 12: */
+background: #FFFFFF;
+border: 1px solid #4A4A4A;
+/* Subject Line: */
+font-family: AlrightSans-Light;
+font-size: 16px;
+color: #4A4A4A;
+letter-spacing: 0px;
+/* Rectangle 12: */
+background: #FFFFFF;
+border: 1px solid #4A4A4A;
+/* Message: */
+font-family: AlrightSans-Light;
+font-size: 16px;
+color: #4A4A4A;
+letter-spacing: 0px;
+/* Rectangle 12: */
+background: #FFFFFF;
+border: 1px solid #4A4A4A;
+/* First Name: */
+font-family: AlrightSans-Light;
+font-size: 16px;
+color: #4A4A4A;
+letter-spacing: 0px;
+/* Rectangle 12: */
+background: #FFFFFF;
+border: 1px solid #4A4A4A;
+/* Last Name: */
+font-family: AlrightSans-Light;
+font-size: 16px;
+color: #4A4A4A;
+letter-spacing: 0px;
+/* Mauris accumsan eros: */
+font-family: AlrightSans-Light;
+font-size: 15.75px;
+color: #4D4D4D;
+letter-spacing: 0px;
+line-height: 26px;
+/* Contact Us: */
+font-family: AlrightSans-Light;
+font-size: 40px;
+color: #4D4D4D;
+letter-spacing: 0px;
+/* Get in touch and let: */
+font-family: AlrightSans-Light;
+font-size: 20px;
+color: #4D4D4D;
+letter-spacing: 0px;
+line-height: 36px;
+/* Sales: */
+font-family: AlrightSans-Regular;
+font-size: 20px;
+color: #4D4D4D;
+letter-spacing: 0px;
+/* We’d love to talk ab: */
+font-family: AlrightSans-Light;
+font-size: 16px;
+color: #4D4D4D;
+letter-spacing: 0px;
+line-height: 22px;
+/* Building Icon: */
+/* Help & Support: */
+font-family: AlrightSans-Regular;
+font-size: 20px;
+color: #4D4D4D;
+letter-spacing: 0px;
+/* We’re here to help w: */
+font-family: AlrightSans-Light;
+font-size: 16px;
+color: #4D4D4D;
+letter-spacing: 0px;
+line-height: 22px;
+/* Chat Icon: */
+/* Media & Press: */
+font-family: AlrightSans-Regular;
+font-size: 20px;
+color: #4D4D4D;
+letter-spacing: 0px;
+/* Get MailHaven news, : */
+font-family: AlrightSans-Light;
+font-size: 16px;
+color: #4D4D4D;
+letter-spacing: 0px;
+line-height: 22px;
+/* Newspaper Icon: */
+/* Line: */
+opacity: 0.2;
+border: 1px solid #9B9B9B;
+/* Line: */
+opacity: 0.2;
+border: 1px solid #9B9B9B;
+
+==============================================================
+SOFTWARE PAGE
+
+/* Rectangle 2: */
+background: #4A4A4A;
+background-image: radial-gradient(95% 2%, rgba(255,255,255,0.38) 0%, rgba(0,0,0,0.50) 100%);
+/* Footer: */
+/* About          Featu: */
+opacity: 0.69;
+font-family: AlrightSans-Regular;
+font-size: 16px;
+color: #FFFFFF;
+letter-spacing: 0px;
+/* Sign In: */
+font-family: AlrightSans-Regular;
+font-size: 16px;
+color: #FFFFFF;
+letter-spacing: 0px;
+/* Rectangle 2: */
+border: 1px solid #FFFFFF;
+border-radius: 20px;
+/* Fill 1: */
+background: #188441;
+/* Fill 2: */
+background: #188441;
+/* Fill 3: */
+background: #50B74E;
+/* Fill 4: */
+background: #50B74E;
+/* Fill 5: */
+background: #F9F9F9;
+/* Fill 6: */
+background: #F9F9F9;
+/* Line: */
+opacity: 0.1;
+border: 1px solid #FFFFFF;
+/* Rectangle 7: */
+background-image: linear-gradient(26deg, #88DC86 0%, #50B74E 95%);
+box-shadow: 0px 0px 6px 1px rgba(0,0,0,0.50);
+/* Check us out on soci: */
+font-family: AlrightSans-Light;
+font-size: 34px;
+color: #FFFFFF;
+letter-spacing: 0px;
+text-shadow: 0px 2px 1px rgba(0,0,0,0.20);
+/* : */
+font-family: Ionicons;
+font-size: 60px;
+color: #FFFFFF;
+letter-spacing: 0px;
+/* Rectangle 17: */
+border: 6px solid #FFFFFF;
+border-radius: 60px;
+/* : */
+font-family: FontAwesome;
+font-size: 60px;
+color: #FFFFFF;
+letter-spacing: 0px;
+/* Rectangle 17: */
+border: 6px solid #FFFFFF;
+border-radius: 60px;
+/* instagram - FontAwesome: */
+font-family: FontAwesome;
+font-size: 50px;
+color: #FFFFFF;
+letter-spacing: 0px;
+/* Rectangle 17: */
+border: 6px solid #FFFFFF;
+border-radius: 60px;
+/* Rectangle 24: */
+background-image: linear-gradient(22deg, #D6D6D6 0%, #FFFFFF 96%);
+box-shadow: 0px 0px 6px 1px rgba(0,0,0,0.50);
+/* Vitae fringilla tinc: */
+font-family: AlrightSans-Light;
+font-size: 15.82px;
+color: #4D4D4D;
+letter-spacing: 0px;
+line-height: 24px;
+/* Vestibulum rutrum qu: */
+font-family: AlrightSans-Regular;
+font-size: 19.78px;
+color: #4D4D4D;
+letter-spacing: 0px;
+line-height: 24px;
+/* Aliquam eget odio se: */
+font-family: AlrightSans-Light;
+font-size: 15.82px;
+color: #4D4D4D;
+letter-spacing: 0px;
+line-height: 24px;
+/* Donec quis ornare la: */
+font-family: AlrightSans-Regular;
+font-size: 19.78px;
+color: #4D4D4D;
+letter-spacing: 0px;
+line-height: 24px;
+/* Mauris accumsan eros: */
+font-family: AlrightSans-Light;
+font-size: 15.82px;
+color: #4D4D4D;
+letter-spacing: 0px;
+line-height: 24px;
+/* Mauris non tempor qu: */
+font-family: AlrightSans-Regular;
+font-size: 19.78px;
+color: #4D4D4D;
+letter-spacing: 0px;
+line-height: 24px;
+/* Our Software: */
+font-family: AlrightSans-Light;
+font-size: 34px;
+color: #4D4D4D;
+letter-spacing: 0px;
+/* Mauris accumsan eros: */
+font-family: AlrightSans-Light;
+font-size: 15.57px;
+color: #4D4D4D;
+letter-spacing: 0px;
+line-height: 26px;
+/* Get in touch and let: */
+font-family: AlrightSans-Light;
+font-size: 19.85px;
+color: #4D4D4D;
+letter-spacing: 0px;
+line-height: 36px;
+/* MH-trackering-app-03: */
+box-shadow: 0px 3px 6px 0px rgba(0,0,0,0.50);
+/* Button: */
+
+
+==============================================================
+
+HARDWARE PAGE
+
+/* Rectangle 2: */
+background: #4A4A4A;
+background-image: radial-gradient(95% 2%, rgba(255,255,255,0.38) 0%, rgba(0,0,0,0.50) 100%);
+/* Footer: */
+/* About          Featu: */
+opacity: 0.69;
+font-family: AlrightSans-Regular;
+font-size: 16px;
+color: #FFFFFF;
+letter-spacing: 0px;
+/* Sign In: */
+font-family: AlrightSans-Regular;
+font-size: 16px;
+color: #FFFFFF;
+letter-spacing: 0px;
+/* Rectangle 2: */
+border: 1px solid #FFFFFF;
+border-radius: 20px;
+/* Fill 1: */
+background: #188441;
+/* Fill 2: */
+background: #188441;
+/* Fill 3: */
+background: #50B74E;
+/* Fill 4: */
+background: #50B74E;
+/* Fill 5: */
+background: #F9F9F9;
+/* Fill 6: */
+background: #F9F9F9;
+/* Line: */
+opacity: 0.1;
+border: 1px solid #FFFFFF;
+/* Bitmap: */
+/* Rectangle 24: */
+background-image: linear-gradient(-267deg, rgba(0,0,0,0.00) 3%, rgba(0,0,0,0.10) 22%, rgba(0,0,0,0.69) 53%);
+/* Vitae fringilla tinc: */
+font-family: AlrightSans-Regular;
+font-size: 17.9px;
+color: #FFFFFF;
+letter-spacing: 0px;
+line-height: 28px;
+text-shadow: 0px 2px 2px rgba(0,0,0,0.79);
+/* Vestibulum rutrum qu: */
+font-family: AlrightSans-Medium;
+font-size: 21.87px;
+color: #FFFFFF;
+letter-spacing: 0px;
+line-height: 24px;
+text-shadow: 0px 2px 2px rgba(0,0,0,0.79);
+/* Mauris accumsan eros: */
+font-family: AlrightSans-Regular;
+font-size: 18px;
+color: #FFFFFF;
+letter-spacing: 0px;
+line-height: 30px;
+text-shadow: 0px 2px 2px rgba(0,0,0,0.79);
+/* Mauris non tempor qu: */
+font-family: AlrightSans-Medium;
+font-size: 22px;
+color: #FFFFFF;
+letter-spacing: 0px;
+line-height: 24px;
+text-shadow: 0px 2px 2px rgba(0,0,0,0.79);
+/* Aliquam eget odio se: */
+font-family: AlrightSans-Regular;
+font-size: 18px;
+color: #FFFFFF;
+letter-spacing: 0px;
+line-height: 30px;
+/* Lorem ipsum dolor se: */
+font-family: AlrightSans-Medium;
+font-size: 22px;
+color: #FFFFFF;
+letter-spacing: 0px;
+line-height: 24px;
+text-shadow: 0px 2px 2px rgba(0,0,0,0.79);
+/* How it works: */
+font-family: AlrightSans-Light;
+font-size: 34px;
+color: #FFFFFF;
+letter-spacing: 0px;
+/* Rectangle 7: */
+background-image: linear-gradient(26deg, #88DC86 0%, #50B74E 95%);
+box-shadow: 0px 0px 6px 1px rgba(0,0,0,0.50);
+/* Check us out on soci: */
+font-family: AlrightSans-Light;
+font-size: 34px;
+color: #FFFFFF;
+letter-spacing: 0px;
+text-shadow: 0px 2px 1px rgba(0,0,0,0.20);
+/* : */
+font-family: Ionicons;
+font-size: 60px;
+color: #FFFFFF;
+letter-spacing: 0px;
+/* Rectangle 17: */
+border: 6px solid #FFFFFF;
+border-radius: 60px;
+/* : */
+font-family: FontAwesome;
+font-size: 60px;
+color: #FFFFFF;
+letter-spacing: 0px;
+/* Rectangle 17: */
+border: 6px solid #FFFFFF;
+border-radius: 60px;
+/* instagram - FontAwesome: */
+font-family: FontAwesome;
+font-size: 50px;
+color: #FFFFFF;
+letter-spacing: 0px;
+/* Rectangle 17: */
+border: 6px solid #FFFFFF;
+border-radius: 60px;
+/* Rectangle 24: */
+background-image: linear-gradient(22deg, #D6D6D6 0%, #FFFFFF 96%);
+box-shadow: 0px 0px 6px 1px rgba(0,0,0,0.50);
+/* Rectangle 7: */
+background: #000000;
+background-image: radial-gradient(100% -46%, rgba(255,255,255,0.50) 0%, rgba(0,0,0,0.50) 100%);
+/* Button: */
+/* Rectangle 12: */
+background: #FFFFFF;
+border: 1px solid #4A4A4A;
+/* Email Address       : */
+font-family: AlrightSans-Light;
+font-size: 16px;
+color: #4A4A4A;
+letter-spacing: 0px;
+/* Rectangle 12: */
+background: #FFFFFF;
+border: 1px solid #4A4A4A;
+/* First Name: */
+font-family: AlrightSans-Light;
+font-size: 15.5px;
+color: #4A4A4A;
+letter-spacing: 0px;
+/* Rectangle 12: */
+background: #FFFFFF;
+border: 1px solid #4A4A4A;
+/* Last Name: */
+font-family: AlrightSans-Light;
+font-size: 15.92px;
+color: #4A4A4A;
+letter-spacing: 0px;
+/* Secure your position: */
+font-family: AlrightSans-Light;
+font-size: 30px;
+color: #FFFFFF;
+letter-spacing: 0px;
+line-height: 34px;
+/* We’ll notify you as : */
+font-family: AlrightSans-Light;
+font-size: 18px;
+color: #FFFFFF;
+letter-spacing: 0px;
+line-height: 26px;
+/* Fill 1: */
+background: #188441;
+/* Fill 2: */
+background: #188441;
+/* Fill 3: */
+background: #50B74E;
+/* Fill 4: */
+background: #50B74E;
+/* Fill 5: */
+background: #F9F9F9;
+/* Fill 6: */
+background: #F9F9F9;
+/* Lorem ipsum dolor se: */
+font-family: AlrightSans-Light;
+font-size: 26px;
+color: #4D4D4D;
+letter-spacing: 0px;
+line-height: 36px;
+/* Our Hardware: */
+font-family: AlrightSans-Light;
+font-size: 48px;
+color: #1F2526;
+letter-spacing: 0px;

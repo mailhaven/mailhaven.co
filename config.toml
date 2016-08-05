@@ -1,6 +1,6 @@
 baseurl = "http://localhost:1313/"
 languageCode = "en-us"
-title = "mailhaven"
+title = "MailHaven - Smart Mailbox for Packages & Deliveries"
 theme = "mh"
 SectionPagesMenu = "main"
 
@@ -11,8 +11,8 @@ SectionPagesMenu = "main"
 [params]
 
 
-	name = "Mail Haven"
-	description = "MailHaven is a smart mailbox that tracks and protects your packages."
+	name = "MailHaven"
+	description = "MailHaven is a smarter way to track, manage, and receive your packages. No more missed deliveries. No more porch pirates. Get started today!"
 
 	# The path must be relative to the static folder
 	favicon = "favicon.ico"

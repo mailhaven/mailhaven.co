@@ -1,9 +1,9 @@
 +++
 date = "2016-07-13T22:33:30-04:00"
-title = "thankyou"
+title = "Thank you | MailHaven"
 slug = "/"
-
-description = "This is thank you page."
+description = "Thanks for signing up with MailHaven!"
+noindex = "true"
 
 +++
 

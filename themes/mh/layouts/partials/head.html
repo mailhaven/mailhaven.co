@@ -2,9 +2,12 @@
 <meta http-equiv="X-UA-Compatible" content="IE=edge">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <meta name="author" content="{{ with .Site.Params.name }}{{ . }}{{ end }}">
-<meta name="description" content="{{ with .Site.Params.description }}{{ . }}{{ end }}">
+<!-- <meta name="description" content="{{ with .Site.Params.description }}{{ . }}{{ end }}"> -->
+<meta name="description" content="{{ if .IsHome }}{{ .Site.Params.description }}{{ else }}{{ .Description }}{{ end }}"/>
 {{ .Hugo.Generator }}
-<title>{{ .Site.Title }}</title>
+<!-- <title>{{ .Site.Title }}</title> -->
+<title>{{ if .IsPage }}{{ .Title }}{{ else }}{{ .Site.Title }}{{ end }}</title>
+{{ if eq .Params.noindex "true" }}<meta name="robots" content="noindex, nofollow">{{ end }}
 {{ "<!-- Favicon -->" | safeHTML }}
 <link rel="shortcut icon" href="/{{ .Site.Params.favicon }}">
 {{ "<!-- Bootstrap Core CSS -->" | safeHTML }}

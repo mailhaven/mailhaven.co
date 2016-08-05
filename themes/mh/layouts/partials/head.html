@@ -8,6 +8,7 @@
 <!-- <title>{{ .Site.Title }}</title> -->
 <title>{{ if .IsPage }}{{ .Title }}{{ else }}{{ .Site.Title }}{{ end }}</title>
 {{ if eq .Params.noindex "true" }}<meta name="robots" content="noindex, nofollow">{{ end }}
+<link rel="canonical" href="{{ .Params.canonical }}"/>
 {{ "<!-- Favicon -->" | safeHTML }}
 <link rel="shortcut icon" href="/{{ .Site.Params.favicon }}">
 {{ "<!-- Bootstrap Core CSS -->" | safeHTML }}

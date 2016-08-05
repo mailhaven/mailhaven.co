@@ -42,6 +42,7 @@
     max-height: auto;
   }
   .header-content {
+    /*position: relative;*/
     margin: 20% 0 10% 0;
     padding: 0;
     width: 60%;
@@ -299,7 +300,7 @@
 
   #aboutheading h1 {
     font-family: AlrightSans-Light;
-    font-size: 15px;
+    font-size: 34px;
     color: #FFFFFF;
     letter-spacing: 0px;
     text-shadow: 0px 2px 2px rgba(0, 0, 0, 0.20);
@@ -307,11 +308,11 @@
   }
   #aboutheading p {
     font-family: "AlrightSans-Light";
-    font-size: 10px;
+    font-size: 20px;
     color: #FFFFFF;
     letter-spacing: 0px;
     text-shadow: 0px 2px 2px rgba(0, 0, 0, 0.20);
-    line-height: 15px;
+    line-height: 32px;
   }
   .aboutsectiondiv {
     margin-top: 0;
@@ -547,7 +548,7 @@
     text-align: center;
   }
   #thankssectiondiv {
-    position: relative;
+    /*position: relative;*/
     width: 100%;
     background-color: #fff;
     overflow: hidden;
@@ -597,7 +598,6 @@
 /*@media only screen and (max-width: 767px)   and (-webkit-min-device-pixel-ratio: 1) {*/
 @media only screen and (max-device-width: 767px) {
   .header-content-image {
-    /*margin: 0 5% 10% 0;*/
     padding: 0;
     /*width: 30%;*/
     width:50%;
@@ -884,7 +884,7 @@
   }
   #aboutheading p {
     font-size: 20px;
-    line-height: 25px;
+    line-height: 32px;
   }
   #aboutformHaven {
     margin: 0;
@@ -911,8 +911,33 @@
 
 /*@media only screen and (min-width: 320px) and (max-width: 480px)   and (-webkit-min-device-pixel-ratio: 2) {*/
 @media only screen and (min-device-width: 320px) and (max-device-width: 480px)   {
-
-
+  #aboutbackground{
+    padding-top:1%;
+    height:auto;
+    overflow:auto;
+    padding:10% 0;
+    width:100%;
+    background-image:none;
+    background-color: #4a4a4a;
+    background-image: -webkit-radial-gradient(95% 2%, #4a4a4a 0%, rgba(0, 0, 0, 0.50) 100%);;
+    text-align:center;
+  }
+  #aboutdiv{
+    width:80%;
+    clear:both;
+    padding-right:0;
+    margin:0 10%;
+  }
+  .navul{
+    opacity: 1;
+    font-family: AlrightSans-Regular;
+    font-size: 16px;
+    color: #FFFFFF;
+    letter-spacing: 0px;
+    z-index:999;
+    position: relative;
+    display: block;
+  }
   /*@media only screen
   and (min-device-width: 320px)
   and (max-device-width: 480px)
@@ -940,7 +965,7 @@
   }
   #hidebuttons {
     clear: both;
-    padding-top: 70px;
+    padding-bottom: 8%;
     display: block;
     margin-left: 20px;
   }
@@ -951,26 +976,39 @@
   header {
     height: auto;
     min-height: auto;
-    padding-bottom: 80px;
+    padding-bottom: 0;
     max-height: auto;
   }
-  .header-content {
+  /*.header-content {
     margin: 0 0 10% 0;
     padding: 0;
     width: 60%;
     padding-left: 5%;
     text-align: left;
-  }
-  .header-content-image {
-    /*margin: 0 5% 10% 0;*/
+  }*/
+  .header-content {
+    margin:  0;
     padding: 0;
-    /*width: 30%;*/
+    width: 80%;
+    margin:0 10%;
+    text-align: center;
+    clear:both;
+    /*position: relative;*/
+  }
+  /*.header-content-image {
+    padding: 0;
     width:50%;
-    /*padding-left: 5%;*/
     text-align: left;
     height: 100%;
-    /*margin-right: 15%;*/
     margin-right:2%;
+  }*/
+  header .header-content-image {
+    clear:both;
+    padding: 0;
+    width:80%;
+    text-align: center;
+    height: 100%;
+    margin:8% 10% 8% 10%;
   }
   .header-content-inner h2 {
     font-size: 20px;
@@ -983,7 +1021,9 @@
     padding: 0;
     margin: 0;
     padding-bottom: 0px;
-    float: left;
+    /*float: left;*/
+    max-width: 100%;
+    min-width:100%;
   }
   .header-content-inner .btn {
     width: 100px;
@@ -1209,7 +1249,7 @@
 
   #aboutheading h1 {
     font-family: AlrightSans-Light;
-    font-size: 15px;
+    font-size: 30px;
     color: #FFFFFF;
     letter-spacing: 0px;
     text-shadow: 0px 2px 2px rgba(0, 0, 0, 0.20);
@@ -1217,11 +1257,11 @@
   }
   #aboutheading p {
     font-family: "AlrightSans-Light";
-    font-size: 10px;
+    font-size: 20px;
     color: #FFFFFF;
     letter-spacing: 0px;
     text-shadow: 0px 2px 2px rgba(0, 0, 0, 0.20);
-    line-height: 15px;
+    line-height: 32px;
   }
   .aboutsectiondiv {
     margin-top: 0;
@@ -1451,7 +1491,7 @@
     text-align: center;
   }
   #thankssectiondiv {
-    position: relative;
+    /*position: relative;*/
     width: 100%;
     background-color: #fff;
     overflow: hidden;
@@ -1500,6 +1540,16 @@
 /*@media only screen and (min-device-width: 375px) and (max-device-width: 667px)   and (-webkit-min-device-pixel-ratio: 1) {*/
 
 @media only screen and (min-device-width: 375px) and (max-device-width: 667px) {
+  .navul{
+    opacity: 1;
+    font-family: AlrightSans-Regular;
+    font-size: 16px;
+    color: #FFFFFF;
+    letter-spacing: 0px;
+    z-index:999;
+    position: relative;
+    display: block;
+  }
   .header-content-image {
     /*margin: 0 5% 10% 0;*/
     padding: 0;
@@ -1534,6 +1584,7 @@
     margin:0;
     display: block;
     margin-left: 20px;
+    padding-bottom: 8%;
   }
   .product-content .btn {
     margin-top: 20%;
@@ -1668,10 +1719,10 @@
   }
   #aboutheading p {
     font-family: "AlrightSans-Regular";
-    font-size: 15px;
+    font-size: 20px;
     color: #FFFFFF;
     letter-spacing: 0px;
-    line-height: 22px;
+    line-height: 32px;
     text-shadow: 0px 2px 2px rgba(0, 0, 0, 0.20);
   }
   .header-content-inner h2 {
@@ -1705,7 +1756,16 @@
 
 @media only screen and (max-width: 768px)    {
 
-
+  .navul{
+    opacity: 1;
+    font-family: AlrightSans-Regular;
+    font-size: 16px;
+    color: #FFFFFF;
+    letter-spacing: 0px;
+    z-index:999;
+    position: relative;
+    display: block;
+  }
 
 
 
@@ -1730,6 +1790,16 @@
 }
 
 @media only screen and (max-width: 1076px)    {
+  .navul{
+    opacity: 1;
+    font-family: AlrightSans-Regular;
+    font-size: 16px;
+    color: #FFFFFF;
+    letter-spacing: 0px;
+    z-index:999;
+    position: relative;
+    display: block;
+  }
   .aboutcta1 {
     clear: both;
     text-align: center;
@@ -1774,7 +1844,16 @@
 
 }
 @media only screen and (max-height:414px) and (orientation: landscape){
-
+  .navul{
+    opacity: 1;
+    font-family: AlrightSans-Regular;
+    font-size: 16px;
+    color: #FFFFFF;
+    letter-spacing: 0px;
+    z-index:999;
+    position: relative;
+    display: block;
+  }
   #desktopheader{
     display:none;
   }
@@ -1792,9 +1871,15 @@
   #showbuttons {
     display: none;
   }
-  #hidebuttons {
+  /*#hidebuttons {
     clear: both;
     padding-top: 0px;
+    display: block;
+    margin-left: 20px;
+  }*/
+  #hidebuttons {
+    clear: both;
+    padding-bottom: 8%;
     display: block;
     margin-left: 20px;
   }
@@ -1805,15 +1890,24 @@
   header {
     height: auto;
     min-height: auto;
-    padding-bottom: 80px;
+    padding-bottom: 0px;
     max-height: auto;
   }
-  .header-content {
+  /*.header-content {
     margin: 20% 0 10% 0;
     padding: 0;
     width: 60%;
     padding-left: 5%;
     text-align: left;
+  }*/
+  .header-content {
+    margin:  0;
+    padding: 0;
+    width: 80%;
+    margin:0 10%;
+    text-align: center;
+    clear:both;
+    /*position: relative;*/
   }
   /*.header-content-image {
     margin: 0 5% 10% 0;
@@ -1824,29 +1918,43 @@
     height: 100%;
     margin-right: 15%;
   }*/
-  .header-content-image {
-    /*margin: 0 5% 10% 0;*/
+  /*.header-content-image {
     padding: 0;
-    /*width: 30%;*/
     width:50%;
-    /*padding-left: 5%;*/
     text-align: left;
     height: 100%;
-    /*margin-right: 15%;*/
     margin-right:2%;
+  }*/
+  header .header-content-image {
+    clear:both;
+    padding: 0;
+    width:80%;
+    text-align: center;
+    height: 100%;
+    margin:8% 10% 8% 10%;
   }
   .header-content-inner h2 {
     font-size: 20px;
     line-height: 25px;
     padding-bottom: 0px;
   }
-  .header-content-inner p {
+  /*.header-content-inner p {
     font-size: 8px;
     line-height: 25px;
     padding: 0;
     margin: 0;
     padding-bottom: 0px;
     float: left;
+  }*/
+  .header-content-inner p {
+    font-size: 8px;
+    line-height: 25px;
+    padding: 0;
+    margin: 0;
+    padding-bottom: 0px;
+    /*float: left;*/
+    max-width: 100%;
+    min-width:100%;
   }
   .header-content-inner .btn {
     width: 100px;
@@ -2066,7 +2174,7 @@
 
   #aboutheading h1 {
     font-family: AlrightSans-Light;
-    font-size: 15px;
+    font-size: 34px;
     color: #FFFFFF;
     letter-spacing: 0px;
     text-shadow: 0px 2px 2px rgba(0, 0, 0, 0.20);
@@ -2074,11 +2182,11 @@
   }
   #aboutheading p {
     font-family: "AlrightSans-Light";
-    font-size: 10px;
+    font-size: 20px;
     color: #FFFFFF;
     letter-spacing: 0px;
     text-shadow: 0px 2px 2px rgba(0, 0, 0, 0.20);
-    line-height: 15px;
+    line-height: 32px;
   }
   .aboutsectiondiv {
     margin-top: 0;
@@ -2314,7 +2422,7 @@
     text-align: center;
   }
   #thankssectiondiv {
-    position: relative;
+    /*position: relative;*/
     width: 100%;
     background-color: #fff;
     overflow: hidden;
@@ -2393,6 +2501,7 @@
     max-height: auto;
   }
   .header-content {
+    /*position:relative;*/
     margin: 20% 0 10% 0;
     padding: 0;
     width: 60%;
@@ -2650,7 +2759,7 @@
 
   #aboutheading h1 {
     font-family: AlrightSans-Light;
-    font-size: 15px;
+    font-size: 34px;
     color: #FFFFFF;
     letter-spacing: 0px;
     text-shadow: 0px 2px 2px rgba(0, 0, 0, 0.20);
@@ -2658,11 +2767,11 @@
   }
   #aboutheading p {
     font-family: "AlrightSans-Light";
-    font-size: 10px;
+    font-size: 20px;
     color: #FFFFFF;
     letter-spacing: 0px;
     text-shadow: 0px 2px 2px rgba(0, 0, 0, 0.20);
-    line-height: 15px;
+    line-height: 32px;
   }
   .aboutsectiondiv {
     margin-top: 0;
@@ -2898,7 +3007,7 @@
     text-align: center;
   }
   #thankssectiondiv {
-    position: relative;
+    /*position: relative;*/
     width: 100%;
     background-color: #fff;
     overflow: hidden;

@@ -54,7 +54,7 @@ SectionPagesMenu = "main"
 		leftContent="The MailHaven app for iOS allows you to manage your online purchases and track shipments with ease. Use MailHaven when shopping to automatically track your purchases, discover where your packages are in the shipping process, as well as receive exclusive deals from the retailers you already know and love."
 		leftButton="Explore the App"
 		rightHeading="The Mailbox"
-		rightSubtitle="Delivering peace of mind 24/7."
+		rightSubtitle="Delivering peace of mind ALWAYS"
 		rightContent="MailHaven’s smart, IoT-enabled mailbox protects your packages and alerts you when they arrive. Deliveries are protected from thieves and nature’s elements alike, ensuring that your package is safe and sound until you get home. Are you ready for a hassle-free delivery experience?"
 		rightButton="How It Works"
 		leftImage='<img src="/img/Assets/TheApp.png">'

@@ -1,14 +1,31 @@
+
 html, body {
   width: 100%;
   height: 100%;
-  /*margin-bottom: 0;
-  padding-bottom: 0;*/
-  max-width:100%;
+  margin-bottom: 0;
+  padding-bottom: 0;
+  /*max-width:100%;
   max-height:100%;
   margin:0;
-  padding:0;
-  overflow-x: hidden;
+  padding:0;*/
+  /*overflow-x: hidden;*/
   font-family: 'AlrightSans-Regular', 'Open Sans', Merriweather, 'Helvetica Neue', Arial, sans-serif;
+}
+#aboutbackground{
+  padding-top:1%; height:auto; overflow:auto; padding:10% 0; width:100%;
+  background-image:url("/img/MH-About-Header-Image.png");background-size:100% 100%; text-align:right; float:right;
+}
+.navbar-default .navbar-toggle:focus, .navbar-default .navbar-toggle:hover {
+     background-color: none;
+}
+.btn-primary:hover{
+  background-color: #fff;
+  color:#50b74e;
+}
+footer a:hover{
+  background-color: none;
+  text-decoration: none;
+
 }
 @font-face {
   font-family: 'AlrightSans-Regular';
@@ -52,7 +69,7 @@ html, body {
   margin-top: 50px;
   min-height: auto;
   background-image: url("/img/Assets/TheHardware-BKG.png");
-  background-size: cover;
+  background-size: 100% 100%;
 }
 #mailboxdiv {
   padding-left: 10%;
@@ -67,7 +84,7 @@ html, body {
   width: 60%;
   margin: 7% 20% 7% 20%;
 }
-.mainblog img {
+/*.mainblog img {
   border-radius: 50%;
   position: absolute;
   top: -10%;
@@ -75,7 +92,7 @@ html, body {
 
   width: 100px;
   height: 100px;
-}
+}*/
 .blogsicon {
   border-radius: 50%;
   position: absolute;
@@ -111,13 +128,13 @@ html, body {
   margin-top: 20px;
 }
 #sectiondiv {
-  position: relative;
+  /*position: relative;*/
   width: 100%;
   background-color: #fff;
   overflow: hidden;
 }
 #thankssectiondiv {
-  position: relative;
+  /*position: relative;*/
   width: 100%;
   background-color: #fff;
   overflow: hidden;
@@ -149,7 +166,7 @@ html, body {
 }
 #contactsubdiv {
   text-align: center;
-  margin-bottom: 5%;
+  margin-bottom: 15%;
   border-bottom: thin solid rgba(34, 34, 34, .05);
 }
 .aboutsectiondiv {
@@ -159,6 +176,7 @@ html, body {
 }
 #bettertogeather {
   margin: 0 15% 40px 15%;
+  line-height: 30px;
 }
 #teamdiv {
   width: 100%;
@@ -536,7 +554,7 @@ header {
   background: -webkit-linear-gradient(left, #202020, #585858);
 }
 .header-content {
-  position: relative;
+  /*position: relative;*/
   width: 55%;
   text-align: center;
   overflow: hidden;
@@ -579,13 +597,14 @@ header .thanks-header-content-image {
   color: #000;
 }
 .header-content {
-  position: absolute;
+  /*position: absolute;*/
   width: 45%;
   padding: 0 50px;
   text-align: center;
   overflow: hidden;
   margin-top: 150px;
   margin-left: 10%;
+  float:left;
 }
 .thanks-header-content {
   position: absolute;

@@ -912,7 +912,16 @@
 /*@media only screen and (min-width: 320px) and (max-width: 480px)   and (-webkit-min-device-pixel-ratio: 2) {*/
 @media only screen and (min-device-width: 320px) and (max-device-width: 480px)   {
 
-
+  .navul{
+    opacity: 1;
+    font-family: AlrightSans-Regular;
+    font-size: 16px;
+    color: #FFFFFF;
+    letter-spacing: 0px;
+    z-index:999;
+    position: relative;
+    display: block;
+  }
   /*@media only screen
   and (min-device-width: 320px)
   and (max-device-width: 480px)
@@ -1500,6 +1509,16 @@
 /*@media only screen and (min-device-width: 375px) and (max-device-width: 667px)   and (-webkit-min-device-pixel-ratio: 1) {*/
 
 @media only screen and (min-device-width: 375px) and (max-device-width: 667px) {
+  .navul{
+    opacity: 1;
+    font-family: AlrightSans-Regular;
+    font-size: 16px;
+    color: #FFFFFF;
+    letter-spacing: 0px;
+    z-index:999;
+    position: relative;
+    display: block;
+  }
   .header-content-image {
     /*margin: 0 5% 10% 0;*/
     padding: 0;
@@ -1705,7 +1724,16 @@
 
 @media only screen and (max-width: 768px)    {
 
-
+  .navul{
+    opacity: 1;
+    font-family: AlrightSans-Regular;
+    font-size: 16px;
+    color: #FFFFFF;
+    letter-spacing: 0px;
+    z-index:999;
+    position: relative;
+    display: block;
+  }
 
 
 
@@ -1730,6 +1758,16 @@
 }
 
 @media only screen and (max-width: 1076px)    {
+  .navul{
+    opacity: 1;
+    font-family: AlrightSans-Regular;
+    font-size: 16px;
+    color: #FFFFFF;
+    letter-spacing: 0px;
+    z-index:999;
+    position: relative;
+    display: block;
+  }
   .aboutcta1 {
     clear: both;
     text-align: center;
@@ -1774,7 +1812,16 @@
 
 }
 @media only screen and (max-height:414px) and (orientation: landscape){
-
+  .navul{
+    opacity: 1;
+    font-family: AlrightSans-Regular;
+    font-size: 16px;
+    color: #FFFFFF;
+    letter-spacing: 0px;
+    z-index:999;
+    position: relative;
+    display: block;
+  }
   #desktopheader{
     display:none;
   }

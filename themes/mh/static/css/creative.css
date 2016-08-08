@@ -24,11 +24,7 @@ html, body {
   background-color: #fff;
   color:#50b74e;
 }
-footer a:hover{
-  background-color: none;
-  text-decoration: none;
 
-}
 @font-face {
   font-family: 'AlrightSans-Regular';
   src: url('/fonts/AlrightSans/Okay Type - AlrightSans-Regular.otf');
@@ -103,7 +99,7 @@ footer a:hover{
   width: 100px;
   height: 100px;
 }
-.header-content-inner h2 {
+.header-content-inner h1 {
   font-family: AlrightSans-Light;
   font-size: 34px;
   color: #FFFFFF;
@@ -179,6 +175,7 @@ footer a:hover{
 #bettertogeather {
   margin: 0 15% 40px 15%;
   line-height: 30px;
+  font-size:24px;
 }
 #teamdiv {
   width: 100%;
@@ -193,7 +190,7 @@ footer a:hover{
   overflow: auto;
   /*display: flex;*/
 }
-#teamdiv h1 {
+#teamdiv h2 {
   font-family: AlrightSans-Light;
   font-size: 34px;
   color: #4D4D4D;
@@ -670,3 +667,7 @@ header .header-content .header-content-inner p {
 .navbar-default .navbar-toggle:focus, .navbar-default .navbar-toggle:hover {
    background-color: none;
  }
+ footer .nav>li>a:hover, .nav>li>a:focus {
+    background-color:transparent;
+    color:red;
+}

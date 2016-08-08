@@ -41,7 +41,7 @@
     text-align: left;
     height: 100%;
   }
-  .header-content-inner h2 {
+  .header-content-inner h1 {
     font-size: 20px;
     line-height: 25px;
     padding-bottom: 0px;
@@ -356,7 +356,7 @@
     margin: 10px 5% 0 5%;
     padding: 500px 0 0 0;
   }
-  #teamdiv h1 {
+  #teamdiv h2 {
     font-family: AlrightSans-Light;
     font-size: 34px;
     color: #4D4D4D;

@@ -103,7 +103,7 @@ footer a:hover{
   width: 100px;
   height: 100px;
 }
-.header-content-inner h2 {
+.header-content-inner h1 {
   font-family: AlrightSans-Light;
   font-size: 34px;
   color: #FFFFFF;
@@ -193,7 +193,7 @@ footer a:hover{
   overflow: auto;
   /*display: flex;*/
 }
-#teamdiv h1 {
+#teamdiv h2 {
   font-family: AlrightSans-Light;
   font-size: 34px;
   color: #4D4D4D;

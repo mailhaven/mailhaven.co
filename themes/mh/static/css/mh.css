@@ -95,7 +95,6 @@
   .product-content {
     clear: both;
     width: 100%;
-    /*text-align: center;*/
     margin: 50px 0 0 0;
     padding: 0;
     border: none;
@@ -182,7 +181,6 @@
     font-size: 20px;
     margin: 0;
     padding-top: 560px;
-    /*padding-right:30px;*/
   }
   #socialicon {
     margin: 0;
@@ -250,8 +248,7 @@
   }
   #footerdiv p {
     color: #fff;
-    /*padding:80px 0 0 200px;*/
-    /*float:left;*/
+  
     text-align: center;
     display: table-cell;
     vertical-align: middle;

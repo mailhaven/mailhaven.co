@@ -1265,6 +1265,7 @@
   .aboutsectiondiv {
     margin-top: 0;
     padding-top: 0;
+    padding-bottom: 10px;
   }
   .about-product-content-inner {
     clear: both;
@@ -1339,7 +1340,7 @@
   .teammember {
     clear: both;
     width: 100%;
-    padding-bottom: 5%;
+    padding-bottom: 10%;
     margin-left: 0;
     padding-left: 0;
   }
@@ -1356,7 +1357,10 @@
     clear: both;
     width: 80%;
     margin: 0 10%;
-    padding-top: 100px;
+    padding-top: 10px;
+  }
+  #contactform h3{
+    line-height: 24px;
   }
   .contactdiv {
     margin-top: 3%;
@@ -1394,13 +1398,23 @@
   }
   #bettertogeather {
     margin: 0 5% 40px 5%;
+    font-size:20px;
+  }
+  .better{
+    font-size: 30px;
   }
   #apphead {
     padding-bottom: 0;
   }
-  #lockicon {
+  /*#lockicon {
     clear: both;
     margin-right: 20px;
+    width: 50px;
+    height: 50px;
+  }*/
+  #lockicon {
+    clear: both;
+    margin:5% 40%;
     width: 50px;
     height: 50px;
   }
@@ -2212,6 +2226,7 @@
   .aboutsectiondiv {
     margin-top: 0;
     padding-top: 0;
+    padding-bottom:10px;
   }
   .about-product-content-inner {
     clear: both;
@@ -2286,7 +2301,7 @@
   .teammember {
     clear: both;
     width: 100%;
-    padding-bottom: 5%;
+    padding-bottom: 10%;
     margin-left: 0;
     padding-left: 0;
   }
@@ -2306,7 +2321,10 @@
     clear: both;
     width: 80%;
     margin: 0 10%;
-    padding-top: 100px;
+    padding-top: 10px;
+  }
+  #contactform h3{
+    line-height: 24px;
   }
   .contactdiv {
     margin-top: 3%;
@@ -2344,13 +2362,23 @@
   }
   #bettertogeather {
     margin: 0 5% 40px 5%;
+    font-size:20px;
+  }
+  .better{
+    font-size: 30px;
   }
   #apphead {
     padding-bottom: 0;
   }
-  #lockicon {
+  /*#lockicon {
     clear: both;
     margin-right: 20px;
+    width: 50px;
+    height: 50px;
+  }*/
+  #lockicon {
+    clear: both;
+    margin: 5% 40%;
     width: 50px;
     height: 50px;
   }

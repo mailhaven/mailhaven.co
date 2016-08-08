@@ -391,6 +391,9 @@ form #formlast {
   width: 35%;
   padding-top: 100px;
 }
+#contactform h3{
+  line-height: 36px;
+}
 #thanksform {
   height: auto;
   padding: 0;

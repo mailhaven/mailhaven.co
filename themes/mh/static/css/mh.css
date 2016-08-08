@@ -7,7 +7,7 @@
 }
 
 
-@media only screen and (max-width:1000px){
+@media only screen and (max-width:850px){
   #desktopheader{
     display:none;
   }
@@ -42,33 +42,23 @@
     max-height: auto;
   }
   .header-content {
-    /*position: relative;*/
     margin: 20% 0 10% 0;
     padding: 0;
-    width: 60%;
+    width: 50%;
     padding-left: 5%;
     text-align: left;
   }
-  /*.header-content-image {
-    margin: 0 5% 10% 0;
-    padding: 0;
-    width: 30%;
-    padding-left: 5%;
-    text-align: left;
-    height: 100%;
-    margin-right: 15%;
-  }*/
+
+
+
   .header-content-image {
-    /*margin: 0 5% 10% 0;*/
     padding: 0;
-    /*width: 30%;*/
-    width:50%;
-    /*padding-left: 5%;*/
+    width:40%;
     text-align: left;
     height: 100%;
-    /*margin-right: 15%;*/
     margin-right:2%;
   }
+
   .header-content-inner h2 {
     font-size: 20px;
     line-height: 25px;
@@ -558,12 +548,12 @@
   }
   #thanksmobileimage {
     display: initial;
-    float:left;
-    margin-left:2%;
+    /*float:left;
+    margin-left:2%;*/
   }
-  #thanksmobileimage img {
+  /*#thanksmobileimage img {
     padding-right:5%;
-  }
+  }*/
   #thankssectiondiv .btn{
     width:120px;
   }
@@ -582,7 +572,7 @@
   .blogsicon {
     border-radius: 50%;
     position: absolute;
-    top: 21%;
+    top: -20px;
     left: 40%;
     width: 50px;
     height: 50px;
@@ -590,6 +580,9 @@
   .navbar-default .navbar-toggle .icon-bar {
     background-color: none;
   }
+  .navbar-default .navbar-toggle:focus, .navbar-default .navbar-toggle:hover {
+     background-color: none;
+   }
 }
 
 
@@ -799,6 +792,9 @@
   .navbar-default .navbar-toggle .icon-bar {
     background-color:none;
 }
+.navbar-default .navbar-toggle:focus, .navbar-default .navbar-toggle:hover {
+   background-color: none;
+ }
 }
 
 
@@ -907,6 +903,9 @@
   #teamdiv {
     padding-left: 25px;
   }
+  .navbar-default .navbar-toggle:focus, .navbar-default .navbar-toggle:hover {
+     background-color: none;
+   }
 }
 
 /*@media only screen and (min-width: 320px) and (max-width: 480px)   and (-webkit-min-device-pixel-ratio: 2) {*/
@@ -1501,14 +1500,14 @@
   }
   #thanksmobileimage {
     display: initial;
-    float:left;
+    /*float:left;
     margin-left:2%;
-    padding-top:20px;
+    padding-top:20px;*/
 
   }
-  #thanksmobileimage img {
+  /*#thanksmobileimage img {
     padding-right:5%;
-  }
+  }*/
   #thankssectiondiv .btn{
     width:120px;
   }
@@ -1519,7 +1518,7 @@
   .mainblog img {
     border-radius: 50%;
     position: absolute;
-    top: -3%;
+    top: -20px;
     left: 42%;
     width: 50px;
     height: 50px;
@@ -1527,14 +1526,20 @@
   .blogsicon {
     border-radius: 50%;
     position: absolute;
-    top: 21%;
-    left: 40%;
+    top: 0px;
+    left: 35%;
     width: 50px;
     height: 50px;
   }
   .navbar-default .navbar-toggle .icon-bar {
     background-color: none;
   }
+  .navbar-default .navbar-toggle:focus, .navbar-default .navbar-toggle:hover {
+     background-color: none;
+}
+.navbar-default .navbar-toggle:focus, .navbar-default .navbar-toggle:hover {
+   background-color: none;
+ }
 }
 
 /*@media only screen and (min-device-width: 375px) and (max-device-width: 667px)   and (-webkit-min-device-pixel-ratio: 1) {*/
@@ -1599,9 +1604,12 @@
   .navbar-default .navbar-toggle .icon-bar {
     background-color: none;
   }
+  .navbar-default .navbar-toggle:focus, .navbar-default .navbar-toggle:hover {
+     background-color: none;
+   }
 }
 
-@media only screen and (min-width: 769px) and (max-width:1074px){
+@media only screen and (min-width: 769px) and (max-width:1089px){
 
   .product-content img {
     width: 60%;
@@ -1619,6 +1627,9 @@
     padding: 0;
     margin-right: 5%;
   }
+  .navbar-default .navbar-toggle:focus, .navbar-default .navbar-toggle:hover {
+     background-color: none;
+   }
 }
 
 /*@media only screen and (min-width:1077px) and (max-width: 1420px)   and (-webkit-min-device-pixel-ratio: 1) {*/
@@ -1731,6 +1742,9 @@
   .header-content-inner p {
     font-size: 20px;
   }
+  .navbar-default .navbar-toggle:focus, .navbar-default .navbar-toggle:hover {
+     background-color: none;
+   }
 }
 
 @media only screen and (max-device-width: 768px)   and (-webkit-min-device-pixel-ratio: 1) {
@@ -1751,6 +1765,9 @@
   .navbar-default .navbar-toggle .icon-bar {
     background-color: none;
   }
+  .navbar-default .navbar-toggle:focus, .navbar-default .navbar-toggle:hover {
+     background-color: none;
+   }
 
 }
 
@@ -1787,9 +1804,12 @@
   .navbar-default .navbar-toggle .icon-bar {
     background-color: none;
   }
+  .navbar-default .navbar-toggle:focus, .navbar-default .navbar-toggle:hover {
+     background-color: none;
+   }
 }
 
-@media only screen and (max-width: 1076px)    {
+/*@media only screen and (max-width: 1076px)    {
   .navul{
     opacity: 1;
     font-family: AlrightSans-Regular;
@@ -1817,15 +1837,13 @@
     background-color: #fff;
     color: #000;
     text-align: center;
-    /*margin: 10px 5% 0 5%;
-    padding: 500px 0 0 0;*/
+
   }
   #teamdiv h1 {
     font-family: AlrightSans-Light;
     font-size: 34px;
     color: #4D4D4D;
     letter-spacing: 0px;
-    /*padding-top: 100px;*/
   }
   .teammember {
     clear: both;
@@ -1841,8 +1859,11 @@
     padding-left: 0;
     margin-bottom: 5%;
   }
+  .navbar-default .navbar-toggle:focus, .navbar-default .navbar-toggle:hover {
+     background-color: none;
+   }
 
-}
+}*/
 @media only screen and (max-height:414px) and (orientation: landscape){
   .navul{
     opacity: 1;
@@ -2432,12 +2453,12 @@
   }
   #thanksmobileimage {
     display: initial;
-    float:left;
-    margin-left:2%;
+    /*float:left;
+    margin-left:2%;*/
   }
-  #thanksmobileimage img {
+  /*#thanksmobileimage img {
     padding-right:5%;
-  }
+  }*/
   #thankssectiondiv .btn{
     width:120px;
   }
@@ -2456,7 +2477,7 @@
   .blogsicon {
     border-radius: 50%;
     position: absolute;
-    top: 21%;
+    top: -20px;
     left: 40%;
     width: 50px;
     height: 50px;
@@ -2464,6 +2485,9 @@
   .navbar-default .navbar-toggle .icon-bar {
     background-color: none;
   }
+  .navbar-default .navbar-toggle:focus, .navbar-default .navbar-toggle:hover {
+     background-color: none;
+   }
 }
 
 @media only screen and (min-device-width:600px) and (max-device-width:1200px) and (orientation: portrait){
@@ -2502,11 +2526,12 @@
   }
   .header-content {
     /*position:relative;*/
-    margin: 20% 0 10% 0;
+    margin: 15% 0 10% 0;
     padding: 0;
-    width: 60%;
+    width: 50%;
     padding-left: 5%;
     text-align: left;
+    float:left;
   }
   /*.header-content-image {
     margin: 0 5% 10% 0;
@@ -2521,7 +2546,7 @@
     /*margin: 0 5% 10% 0;*/
     padding: 0;
     /*width: 30%;*/
-    width:50%;
+    width:40%;
     /*padding-left: 5%;*/
     text-align: left;
     height: 100%;
@@ -3017,12 +3042,12 @@
   }
   #thanksmobileimage {
     display: initial;
-    float:left;
-    margin-left:2%;
+    /*float:left;
+    margin-left:2%;*/
   }
-  #thanksmobileimage img {
+  /*#thanksmobileimage img {
     padding-right:5%;
-  }
+  }*/
   #thankssectiondiv .btn{
     width:120px;
   }
@@ -3041,7 +3066,7 @@
   .blogsicon {
     border-radius: 50%;
     position: absolute;
-    top: 21%;
+    top: -20px;
     left: 40%;
     width: 50px;
     height: 50px;
@@ -3049,4 +3074,7 @@
   .navbar-default .navbar-toggle .icon-bar {
     background-color: none;
   }
+  .navbar-default .navbar-toggle:focus, .navbar-default .navbar-toggle:hover {
+     background-color: none;
+   }
 }

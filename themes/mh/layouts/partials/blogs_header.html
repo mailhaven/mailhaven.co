@@ -1,4 +1,4 @@
-<header style='padding-bottom:20px'>
+<header style='padding-bottom:20px; position:relative; display:block;z-index:999;'>
   {{ "<!-- NAVIGATION -->" | safeHTML }}
   <nav id="mainNav" class="navbar navbar-default " style='border-opacity: 0.1; border-bottom-style: 1px solid #FFFFFF; border-radius:0;'>
       <div class="container-fluid">
@@ -42,8 +42,9 @@
   <div style='padding:5% 5%; font-family: AlrightSans-Light;
   font-size: 16px;
   color: #4A4A4A;
-  letter-spacing: 0px; background: #FFFFFF;background-image:url("/img/Kela Image 220w.png"); background-size: 100px 100px;
-    background-repeat: no-repeat; background-position:center top;'>{{ .Content }}<a style='border-bottom: solid 2px #50b74e;color: #50B74E; text-decoration:none;'href="/blog">Read Less</a>
+  letter-spacing: 0px; background: #FFFFFF;position:relative;'>{{ .Content }}<a style='border-bottom: solid 2px #50b74e;color: #50B74E; text-decoration:none;'href="/blog">Read Less</a>
+
+  <div class='blogsicon'><img   src='/img/Kela Image 220w.png'></div>
 </div>
-  <!-- <div class='blogsicon'><img   src='/img/Kela Image 220w.png'></div> -->
+
 </div>

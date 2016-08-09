@@ -1764,7 +1764,6 @@
     background-color: none;
   }
 }
-<<<<<<< f0963ad4c2971383232bf2753b71ac0eb40e7fa7
 
 @media only screen and (min-device-width:600px) and (max-device-width:1200px) and (orientation: portrait),
   only screen and (min-width:769px) and (max-width:850px){
@@ -1772,9 +1771,7 @@
 
 
 
-=======
-@media only screen and (min-device-width:600px) and (max-device-width:1200px) and (orientation: portrait) {
->>>>>>> updated css files
+
   #desktopheader {
     display: none;
   }
@@ -2175,15 +2172,5 @@
   .navbar-default .navbar-toggle:focus, .navbar-default .navbar-toggle:hover {
     background-color: none;
   }
-<<<<<<< f0963ad4c2971383232bf2753b71ac0eb40e7fa7
-<<<<<<< 7b9c1ca37bfe01ccc490f569fc9e0dac025bfe74
+
 }
-=======
-<<<<<<< 2b5e1144e70fee332838065ffae469fec94820a4
-}
-=======
-=======
->>>>>>> updated css files
-}
->>>>>>> updated css files
->>>>>>> updated css files

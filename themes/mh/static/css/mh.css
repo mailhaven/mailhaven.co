@@ -1764,7 +1764,8 @@
     background-color: none;
   }
 }
-@media only screen and (min-device-width:600px) and (max-device-width:1200px) and (orientation: portrait) {
+@media only screen and (min-device-width:600px) and (max-device-width:1200px) and (orientation: portrait),
+  only screen and (min-width:769px) and (max-width:850px){
   #desktopheader {
     display: none;
   }

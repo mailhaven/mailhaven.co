@@ -15,7 +15,7 @@ SectionPagesMenu = "main"
 	description = "MailHaven is a smarter way to track, manage, and receive your packages. No more missed deliveries. No more porch pirates. Get started today!"
 
 	# The path must be relative to the static folder
-	favicon = "favicon.ico"
+	favicon = "MH-Favicon-1.png"
 
 
 	# Navigation

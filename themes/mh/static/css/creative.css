@@ -1,26 +1,31 @@
-
 html, body {
   width: auto;
   height: auto;
   margin: 0;
   padding: 0;
-  max-width:auto;
+  max-width: auto;
   max-height: auto;
   overflow-x: hidden;
   font-family: 'AlrightSans-Regular', 'Open Sans', Merriweather, 'Helvetica Neue', Arial, sans-serif;
 }
-#aboutbackground{
-  padding-top:1%; height:auto; overflow:auto; padding:10% 0; width:100%;
-  background-image:url("/img/MH-About-Header-Image.png");background-size:100% 100%; text-align:right; float:right;
+#aboutbackground {
+  padding-top: 1%;
+  height: auto;
+  overflow: auto;
+  padding: 10% 0;
+  width: 100%;
+  background-image: url("/img/MH-About-Header-Image.png");
+  background-size: 100% 100%;
+  text-align: right;
+  float: right;
 }
 .navbar-default .navbar-toggle:focus, .navbar-default .navbar-toggle:hover {
-     background-color: none;
+  background-color: none;
 }
-.btn-primary:hover{
+.btn-primary:hover {
   background-color: #fff;
-  color:#50b74e;
+  color: #50b74e;
 }
-
 @font-face {
   font-family: 'AlrightSans-Regular';
   src: url('/fonts/AlrightSans/Okay Type - AlrightSans-Regular.otf');
@@ -83,14 +88,13 @@ html, body {
   position: absolute;
   top: -10%;
   left: 40%;
-
   width: 100px;
   height: 100px;
 }
 .blogsicon {
   border-radius: 50%;
   position: absolute;
-  top:-2%;
+  top: -2%;
   left: 40%;
   width: 100px;
   height: 100px;
@@ -169,7 +173,7 @@ html, body {
 #bettertogeather {
   margin: 0 15% 40px 15%;
   line-height: 30px;
-  font-size:24px;
+  font-size: 24px;
 }
 #teamdiv {
   width: 100%;
@@ -203,7 +207,6 @@ html, body {
   border-bottom-style: 1px solid #FFFFFF;
   border-radius: 0;
 }
-
 #aboutheading h1 {
   font-family: AlrightSans-Light;
   font-size: 34px;
@@ -232,7 +235,6 @@ html, body {
   line-height: 30px;
   text-shadow: 0px 1px 1px rgba(0, 0, 0, 0.30);
 }
-
 #formwidth {
   width: 55%;
   padding: 5% 0 0 15%;
@@ -369,7 +371,7 @@ form #formlast {
   width: 35%;
   padding-top: 100px;
 }
-#contactform h3{
+#contactform h3 {
   line-height: 36px;
 }
 #thanksform {
@@ -404,7 +406,7 @@ form #formlast {
   font-family: 'AlrightSans-Regular';
   margin-top: 15px;
 }
-.navbar-default .nav > li>a, .navbar-default .nav>li>a:focus {
+.navbar-default .nav> li>a, .navbar-default .nav>li>a:focus {
   font-size: 16px;
   margin-top: 28px;
 }
@@ -415,93 +417,118 @@ nav {
   border-color: rgba(255, 255, 255, .3);
   background-color: transparent;
 }
-.navbar-default .nav > li>a, .navbar-default .nav>li>a:focus {
+.navbar-default .nav> li>a, .navbar-default .nav>li>a:focus {
   color: rgba(255, 255, 255, .7);
 }
-.navbar-default .nav > li>a:hover, .navbar-default .nav>li>a:focus:hover {
+.navbar-default .nav> li>a:hover, .navbar-default .nav>li>a:focus:hover {
   color: #fff;
 }
-.navul{
+.navul {
   opacity: 0.69;
   font-family: AlrightSans-Regular;
   font-size: 16px;
   color: #FFFFFF;
   letter-spacing: 0px;
 }
-#mailabout{
-  padding:0 0 5px 0; margin:40px 40px 0 100px;
-
+#mailabout {
+  padding: 0 0 5px 0;
+  margin: 40px 40px 0 100px;
 }
-#mailblog{
-  padding:0 0 5px 0; margin:40px 40px 0 0;
+#mailblog {
+  padding: 0 0 5px 0;
+  margin: 40px 40px 0 0;
 }
-#mailcontact{
-  padding:0 0 5px 0; margin:40px 0px 0 0;
+#mailcontact {
+  padding: 0 0 5px 0;
+  margin: 40px 0px 0 0;
 }
-#aboutnav{
-  border-bottom: solid 2px #50b74e; padding:0 0 5px 0; margin:40px 40px 0 100px;
-
+#aboutnav {
+  border-bottom: solid 2px #50b74e;
+  padding: 0 0 5px 0;
+  margin: 40px 40px 0 100px;
 }
-#aboutblog{
-  padding:0 0 5px 0; margin:40px 40px 0 0;
-
+#aboutblog {
+  padding: 0 0 5px 0;
+  margin: 40px 40px 0 0;
 }
-#aboutcontact{
-  padding:0 0 5px 0; margin:40px 0 0 0;
+#aboutcontact {
+  padding: 0 0 5px 0;
+  margin: 40px 0 0 0;
 }
-#homeabout{
-  padding:0 0 5px 0; margin:40px 40px 0 100px;
+#homeabout {
+  padding: 0 0 5px 0;
+  margin: 40px 40px 0 100px;
 }
-#homeblog{
-  padding:0 0 5px 0; margin:40px 40px 0 0;
+#homeblog {
+  padding: 0 0 5px 0;
+  margin: 40px 40px 0 0;
 }
-#homecontact{
-  padding:0 0 5px 0; margin:40px 0 0 0;
+#homecontact {
+  padding: 0 0 5px 0;
+  margin: 40px 0 0 0;
 }
-#appabout{
-  padding:0 0 5px 0; margin:40px 40px 0 100px;
+#appabout {
+  padding: 0 0 5px 0;
+  margin: 40px 40px 0 100px;
 }
-#appblog{
-  padding:0 0 5px 0; margin:40px 40px 0 0;
+#appblog {
+  padding: 0 0 5px 0;
+  margin: 40px 40px 0 0;
 }
-#appcontact{
-  padding:0 0 5px 0; margin:40px 0px 0 0;
+#appcontact {
+  padding: 0 0 5px 0;
+  margin: 40px 0px 0 0;
 }
-#blogabout{
-  padding:0 0 5px 0; margin:40px 40px 0 100px;
+#blogabout {
+  padding: 0 0 5px 0;
+  margin: 40px 40px 0 100px;
 }
-#forblog{
-  border-bottom: solid 2px #50b74e; padding:0 0 5px 0; margin:40px 40px 0 0;
+#forblog {
+  border-bottom: solid 2px #50b74e;
+  padding: 0 0 5px 0;
+  margin: 40px 40px 0 0;
 }
-#blogcontact{
-  padding:0 0 5px 0; margin:40px 0 0 0;
+#blogcontact {
+  padding: 0 0 5px 0;
+  margin: 40px 0 0 0;
 }
-#blogsabout{
-  padding:0 0 5px 0; margin:40px 40px 0 100px;
+#blogsabout {
+  padding: 0 0 5px 0;
+  margin: 40px 40px 0 100px;
 }
-#forblogs{
-  border-bottom: solid 2px #50b74e; padding:0 0 5px 0; margin:40px 40px 0 0;
+#forblogs {
+  border-bottom: solid 2px #50b74e;
+  padding: 0 0 5px 0;
+  margin: 40px 40px 0 0;
 }
-#blogscontact{
-  padding:0 0 5px 0; margin:40px 0 0 0;
+#blogscontact {
+  padding: 0 0 5px 0;
+  margin: 40px 0 0 0;
 }
-#contactabout{
-  padding:0 0 5px 0; margin:40px 40px 0 100px;
+#contactabout {
+  padding: 0 0 5px 0;
+  margin: 40px 40px 0 100px;
 }
-#contactblog{
-  padding:0 0 5px 0; margin:40px 40px 0 0;
+#contactblog {
+  padding: 0 0 5px 0;
+  margin: 40px 40px 0 0;
 }
-#forcontact{
-  border-bottom: solid 2px #50b74e; padding:0 0 5px 0; margin:40px 0 0 0;
+#forcontact {
+  border-bottom: solid 2px #50b74e;
+  padding: 0 0 5px 0;
+  margin: 40px 0 0 0;
 }
-#thanksabout{
-  padding:0 0 5px 0; margin:40px 40px 0 100px;
+#thanksabout {
+  padding: 0 0 5px 0;
+  margin: 40px 40px 0 100px;
 }
-#thanksblog{
-  padding:0 0 5px 0; margin:40px 40px 0 0;
+#thanksblog {
+  padding: 0 0 5px 0;
+  margin: 40px 40px 0 0;
 }
-#thankscontact{
-  padding:0 0 5px 0; margin:40px 0 0 0;
+#thankscontact {
+  padding: 0 0 5px 0;
+  margin: 40px 0 0 0;
 }
 header {
   position: relative;
@@ -585,7 +612,7 @@ header .thanks-header-content-image {
   overflow: hidden;
   margin-top: 15%;
   margin-left: 10%;
-  float:left;
+  float: left;
 }
 .thanks-header-content {
   position: absolute;
@@ -618,7 +645,7 @@ header .header-content .header-content-inner p {
   -moz-transition: all .35s;
   transition: all .35s;
 }
-.btn-primary:active, .btn-primary.active, .open > .dropdown-toggle.btn-primary {
+.btn-primary:active, .btn-primary.active, .open> .dropdown-toggle.btn-primary {
   background-image: none;
 }
 .btn {
@@ -630,26 +657,25 @@ header .header-content .header-content-inner p {
 .btn-default {
   border: solid thin;
 }
-#aboutheader{
+#aboutheader {
   padding-bottom: 20px;
 }
-#aboutdiv{
-  width:50%; display:table; float:right; padding-right:10%;
+#aboutdiv {
+  width: 50%;
+  display: table;
+  float: right;
+  padding-right: 10%;
 }
-#appmain h1{
+#appmain h1 {
   font-size: 40px;
-
 }
-#mobileheader{
-  display:none;
+#mobileheader {
+  display: none;
 }
 .navbar-default .navbar-toggle:focus, .navbar-default .navbar-toggle:hover {
-   background-color: none;
- }
- footer .nav>li>a:hover, .nav>li>a:focus {
-    background-color:transparent;
-    color:red;
+  background-color: none;
 }
-#thanksmargin{
-  margin-top:150px;
+footer .nav>li>a:hover, .nav>li>a:focus {
+  background-color: transparent;
+  color: red;
 }

@@ -1769,12 +1769,15 @@
   only screen and (min-width:769px) and (max-width:850px){
 
 
+<<<<<<< b637344513db297ba5e03a50eae531febf54e1ab
 
 
 
 
 
 
+=======
+>>>>>>> updated css files
   #desktopheader {
     display: none;
   }
@@ -2175,9 +2178,17 @@
   .navbar-default .navbar-toggle:focus, .navbar-default .navbar-toggle:hover {
     background-color: none;
   }
+<<<<<<< b637344513db297ba5e03a50eae531febf54e1ab
 <<<<<<< 1561cf1993de19a7c7763f6b7439c1f46f98605a
 
 }
 =======
 }
 >>>>>>> updated css
+=======
+<<<<<<< 2b5e1144e70fee332838065ffae469fec94820a4
+}
+=======
+}
+>>>>>>> updated css files
+>>>>>>> updated css files

@@ -1774,6 +1774,7 @@
 
 
 
+
   #desktopheader {
     display: none;
   }
@@ -2174,5 +2175,9 @@
   .navbar-default .navbar-toggle:focus, .navbar-default .navbar-toggle:hover {
     background-color: none;
   }
+<<<<<<< 1561cf1993de19a7c7763f6b7439c1f46f98605a
 
 }
+=======
+}
+>>>>>>> updated css

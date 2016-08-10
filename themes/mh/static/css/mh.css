@@ -1764,12 +1764,9 @@
     background-color: none;
   }
 }
-<<<<<<< b723be01c0c321aaaf17814ebd828e69eeb37560
 @media only screen and (min-device-width:600px) and (max-device-width:1200px) and (orientation: portrait),
   only screen and (min-width:769px) and (max-width:850px){
-=======
-@media only screen and (min-device-width:600px) and (max-device-width:1200px) and (orientation: portrait) {
->>>>>>> updated css files
+
   #desktopheader {
     display: none;
   }

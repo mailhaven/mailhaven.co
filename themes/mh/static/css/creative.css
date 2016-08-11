@@ -91,7 +91,7 @@ html, body {
   width: 100px;
   height: 100px;
 }
-.blogsicon {
+#blogsicon {
   border-radius: 50%;
   position: absolute;
   top: -2%;

@@ -302,6 +302,7 @@
     margin-right: 20px;
     width: 50px;
     height: 50px;
+    margin-bottom: 70px;
   }
   #lockicon h4 {
     text-align: right;
@@ -635,6 +636,7 @@
   .navbar-default .navbar-toggle:focus, .navbar-default .navbar-toggle:hover {
     background-color: none;
   }
+
 }
 @media only screen and (min-device-width: 768px) and (max-device-width: 1024px),
   only screen and (min-width: 768px) and (max-width: 1024px){
@@ -1088,6 +1090,10 @@
     width: 100;
     height: 100%;
   }
+  .app-header-content-inner img {
+    width:70%;
+  }
+
   #mailboxhead {
     padding-bottom: 30px;
     margin-top: 50px;
@@ -1136,7 +1142,7 @@
   }
   .mainblog {
     width: 90%;
-    margin: 7% 5% 7% 5%;
+    margin: 7% 5% 15% 5%;
   }
   .mainblog img {
     border-radius: 50%;
@@ -1261,7 +1267,7 @@
     background: #FFFFFF;
     border: 1px solid #4A4A4A;
     width: 100%;
-    height: 30px;
+    /*height: 30px;*/
     margin: 0 0 5% 0;
   }
   form #formname {
@@ -1273,7 +1279,7 @@
     border: 1px solid #4A4A4A;
     width: 48%;
     margin: 0 4% 5% 0;
-    height: 30px;
+    /*height: 30px;*/
     float: left;
   }
   form #formlast {
@@ -1285,7 +1291,7 @@
     border: 1px solid #4A4A4A;
     width: 48%;
     margin-bottom: 5%;
-    height: 30px;
+    /*height: 30px;*/
   }
   #aboutheading p {
     font-family: "AlrightSans-Regular";
@@ -1296,7 +1302,7 @@
     text-shadow: 0px 2px 2px rgba(0, 0, 0, 0.20);
   }
   .header-content-inner h1 {
-    font-size: 24px;
+    font-size: 34px;
   }
   .header-content-inner p {
     font-size: 20px;
@@ -1324,6 +1330,7 @@
   .navbar-default .navbar-toggle:focus, .navbar-default .navbar-toggle:hover {
     background-color: none;
   }
+
 
 
 }
@@ -1764,7 +1771,7 @@
     border-radius: 50%;
     position: absolute;
     top: -3%;
-    left: 42%;
+    left: 45%;
     width: 50px;
     height: 50px;
   }
@@ -1772,7 +1779,7 @@
     border-radius: 50%;
     position: absolute;
     top: -20px;
-    left: 40%;
+    left: 45%;
     width: 50px;
     height: 50px;
   }
@@ -2084,6 +2091,7 @@
     margin-right: 20px;
     width: 50px;
     height: 50px;
+    margin-bottom: 50px;
   }
   #lockicon h4 {
     text-align: right;
@@ -2172,7 +2180,7 @@
     border-radius: 50%;
     position: absolute;
     top: -3%;
-    left: 42%;
+    left: 45%;
     width: 50px;
     height: 50px;
   }
@@ -2180,7 +2188,7 @@
     border-radius: 50%;
     position: absolute;
     top: -20px;
-    left: 40%;
+    left: 45%;
     width: 50px;
     height: 50px;
   }
@@ -2247,4 +2255,10 @@
     padding-left: 0px;
   }
 
+}
+
+@media  screen and (min-width:481px) and (max-width:852px){
+  .header-content{
+    margin-top: 10%;
+  }
 }

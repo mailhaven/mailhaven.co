@@ -83,13 +83,22 @@ html, body {
   width: 60%;
   margin: 7% 20% 7% 20%;
 }
-.mainblog img {
+/*.mainblog img {*/
+/*  border-radius: 50%;*/
+/*  position: absolute;*/
+/*  top: -10%;*/
+/*  left: 40%;*/
+/*  width: 100px;*/
+/*  height: 100px;*/
+/*}*/
+#blogicn{
   border-radius: 50%;
   position: absolute;
   top: -10%;
   left: 40%;
   width: 100px;
   height: 100px;
+
 }
 #blogsicon {
   border-radius: 50%;

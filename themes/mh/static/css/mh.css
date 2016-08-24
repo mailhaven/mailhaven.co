@@ -387,13 +387,22 @@
     width: 90%;
     margin: 7% 5% 7% 5%;
   }
-  .mainblog img {
+  /*.mainblog img {*/
+  /*  border-radius: 50%;*/
+  /*  position: absolute;*/
+  /*  top: -3%;*/
+  /*  left: 42%;*/
+  /*  width: 50px;*/
+  /*  height: 50px;*/
+  /*}*/
+  #blogicn{
     border-radius: 50%;
     position: absolute;
     top: -3%;
     left: 42%;
     width: 50px;
     height: 50px;
+
   }
   #blogsicon {
     border-radius: 50%;
@@ -1144,14 +1153,22 @@
     width: 90%;
     margin: 7% 5% 15% 5%;
   }
-  .mainblog img {
-    border-radius: 50%;
-    position: absolute;
-    top: -20px;
-    left: 42%;
-    width: 50px;
-    height: 50px;
-  }
+  /*.mainblog img {*/
+  /*  border-radius: 50%;*/
+  /*  position: absolute;*/
+  /*  top: -20px;*/
+  /*  left: 42%;*/
+  /*  width: 50px;*/
+  /*  height: 50px;*/
+  /*}*/
+  #blogicn{
+  border-radius: 50%;
+  position: absolute;
+  top: -3%;
+  left: 42%;
+  width: 50px;
+  height: 50px;
+}
   #blogsicon {
     border-radius: 50%;
     position: absolute;
@@ -1767,14 +1784,22 @@
     width: 90%;
     margin: 7% 5% 7% 5%;
   }
-  .mainblog img {
-    border-radius: 50%;
-    position: absolute;
-    top: -3%;
-    left: 45%;
-    width: 50px;
-    height: 50px;
-  }
+  /*.mainblog img {*/
+  /*  border-radius: 50%;*/
+  /*  position: absolute;*/
+  /*  top: -3%;*/
+  /*  left: 45%;*/
+  /*  width: 50px;*/
+  /*  height: 50px;*/
+  /*}*/
+    #blogicn{
+  border-radius: 50%;
+  position: absolute;
+  top: -3%;
+  left: 42%;
+  width: 50px;
+  height: 50px;
+}
   #blogsicon {
     border-radius: 50%;
     position: absolute;
@@ -2176,14 +2201,22 @@
     width: 90%;
     margin: 7% 5% 7% 5%;
   }
-  .mainblog img {
-    border-radius: 50%;
-    position: absolute;
-    top: -3%;
-    left: 45%;
-    width: 50px;
-    height: 50px;
-  }
+  /*.mainblog img {*/
+  /*  border-radius: 50%;*/
+  /*  position: absolute;*/
+  /*  top: -3%;*/
+  /*  left: 45%;*/
+  /*  width: 50px;*/
+  /*  height: 50px;*/
+  /*}*/
+    #blogicn{
+  border-radius: 50%;
+  position: absolute;
+  top: -3%;
+  left: 42%;
+  width: 50px;
+  height: 50px;
+}
   #blogsicon {
     border-radius: 50%;
     position: absolute;

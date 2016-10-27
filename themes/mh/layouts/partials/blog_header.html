@@ -36,7 +36,7 @@
 </header>
 
 
-{{ range first 6 .Paginator.Pages }}
+{{ range .Paginator.Pages }}
 {{ if eq .Type "blog"}}
 
 <div class='mainblog' style='height:auto;

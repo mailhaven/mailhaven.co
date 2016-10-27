@@ -4,7 +4,7 @@ date = "2016-10-27" title = "Preorder" meta_title = "Preorder"
 
 author = "Kela Ivonye" author_twitter = "Zabimaru_Ichigo" slug="/preorder"
 
-aliases = [ "blog/2016/8/24/preorder" ]
+aliases = [ "blog/2016/10/27/preorder" ]
 
 +++
 

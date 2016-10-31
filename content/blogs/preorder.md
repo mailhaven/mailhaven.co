@@ -33,3 +33,8 @@ Ofcourse, there are benefits of being part of this pilot. Participants will be a
 
 If you are interested in participating in the pilot or learning more about what we are doing at Mailhaven, sign up for updates [here](https://mailhaven.co/contact/). 
 
+<img style="width:90%; height:100%; border-radius:0; margin:5% 5%;" src="/img/preorder3.jpeg">
+
+
+
+

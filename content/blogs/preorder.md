@@ -1,9 +1,11 @@
 +++
 
-date = "2016-10-31" title = "Preorder" meta_title = "Preorder"
-
-author = "Kela Ivonye" author_twitter = "Zabimaru_Ichigo" slug="/preorder"
-
+date = "2016-10-31" 
+title = "Preorder" 
+meta_title = "Preorder"
+author = "Kela Ivonye" 
+author_twitter = "Zabimaru_Ichigo" 
+slug="/preorder"
 aliases = [ "blog/2016/10/31/preorder" ]
 
 +++

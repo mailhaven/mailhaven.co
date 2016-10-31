@@ -18,7 +18,7 @@ Thanks to every one for their support over the last few months, we announced tha
 
 We also recently got awarded a $75,000 grant from the Nucleus Innovation Center & Kentucky Economic Development Finance Authority. This has allowed us to get an additional office space and increase our engineering team. We are now located in the Nucleus Innovation Center, in addition to being incubated by Forest Giant.
 
-<img style="width:90%; height:100%; border-radius:0; margin:5% 5%;" src="/img/preorder2.jpg">
+<img style="width:90%; height:100%; border-radius:0; margin:5% 5%;" src="/img/preorder2.jpeg">
 
 #PRE ORDERS ARE OPEN
 

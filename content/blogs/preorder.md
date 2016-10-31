@@ -20,7 +20,7 @@ We also recently got awarded a $75,000 grant from the Nucleus Innovation Center 
 
 <img style="width:90%; height:100%; border-radius:0; margin:5% 5%;" src="/img/preorder2.jpeg">
 
-#PRE ORDERS ARE OPEN
+# PRE ORDERS ARE OPEN
 
 We will be running a 20 unit pilot in late November to test out the new full functional mailhaven V.3 Prototypes and now accepting pre orders for the units. The amount of spots are limited we have not choice but to be selective. Below is a list of our selection criteria:
 	•	Shop online and receives over 5 packages a month

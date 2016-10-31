@@ -10,7 +10,7 @@ aliases = [ "blog/2016/10/31/preorder" ]
 
 +++
 
-# Preorders
+# Good News!! Preorders are now Open!
 
 Thanks to every one for their support over the last few months, we announced that we won a $25,000 grant through the Vogt Innovations awards in September. In addition, we recently won the Greater Louisville Inc, Hot & Fast Innovation Award. We were selected among the 6 startups recognized as innovative early stage startups for the Hot Fast Innovation Awards in Louisville, KY. You can read more about it [here](http://www.bizjournals.com/louisville/news/2016/09/26/hot-and-fast-enterprisecorp-names-louisvilles-most.html?ana=RSS%26s%3Darticle_search&amp;utm_source=feedburner&amp;utm_medium=feed&amp;utm_campaign=Feed%3A+bizj_louisville+%28Business+First+of+Louisville%29).
 <img style="width:90%; height:100%; border-radius:0; margin:5% 5%;" src="/img/preorder1.jpeg">

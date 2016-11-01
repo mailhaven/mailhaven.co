@@ -1,5 +1,5 @@
 {{ "<!-- HEADER -->" | safeHTML }}
-<header  >
+<header style="z-index:999"  >
   <nav id="mainNav" class="navbar navbar-default">
       <div class="container-fluid">
         <div class="navbar-header">
@@ -50,7 +50,7 @@
   </div>
 </form>
 
-<form id="tablethide" style="position:absolute;padding:15px 0; width:100%; text-align:center; background-color:#50b74e"  action="//mailhaven.us13.list-manage.com/subscribe/post?u=f21d21264b657f9c75ed126c8&amp;id=6e6d3d3e33" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate container" target="_blank" >
+<form id="tablethide" style="z-index:0;padding:15px 0; width:100%; text-align:center; background-color:#50b74e"  action="//mailhaven.us13.list-manage.com/subscribe/post?u=f21d21264b657f9c75ed126c8&amp;id=6e6d3d3e33" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate container" target="_blank" >
     <div class="tabletsignup" class="row" style="text-align:center" >
       <div class="col-sm-12" style="width:100%" >
         <p style='margin:0 0; padding-top:8px;margin-right:0;padding-right:0;  font-family: AlrightSans-Light;
@@ -60,7 +60,8 @@
         text-align:center;
         line-height: 26px;' >{{ with .Site.Params.services.formHeading }}{{ . | markdownify  }}{{ end }}</p>
       </div>
-    </div></br>
+  </div>
+  <br>
     <div class="row tabletsignup" style="width:100%;">
 
     <div class="col-sm-7">

@@ -1,6 +1,6 @@
 {{ "<!-- HEADER -->" | safeHTML }}
 <header style="z-index:999"  >
-  <nav id="mainNav" class="navbar navbar-default">
+  <nav id="mainNav" class="navbar navbar-default navbar-static-top">
       <div class="container-fluid">
         <div class="navbar-header">
             <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1" >
@@ -12,16 +12,16 @@
             <a class="navbar-brand page-scroll" href="/">{{ with .Site.Params.navigation.brand }}{{ . | markdownify }}{{ end }}</a>
         </div>
         <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
-            <ul class="nav navbar-nav navbar-right navul" >
-                <li>
-                    <a id='homeabout'  class="page-scroll" href="/about/">{{ with .Site.Params.navigation.links.about }}{{ . }}{{ end }}</a>
+            <ul class="nav navbar-nav navbar-right navul" style="z-index:999;" >
+                <li style="z-index:999;">
+                    <a style="z-index:999;" id='homeabout'  class="page-scroll" href="/about/">{{ with .Site.Params.navigation.links.about }}{{ . }}{{ end }}</a>
                 </li>
-                <li>
-                    <a id='homeblog'   class="page-scroll" href="/blog/">{{ with .Site.Params.navigation.links.blog }}{{ . }}{{ end }}</a>
+                <li style="z-index:999;">
+                    <a style="z-index:999;" id='homeblog'   class="page-scroll" href="/blog/">{{ with .Site.Params.navigation.links.blog }}{{ . }}{{ end }}</a>
                 </li>
 
-                <li>
-                    <a id='homecontact'  class="page-scroll" href="/contact/">{{ with .Site.Params.navigation.links.contact }}{{ . }}{{ end }}</a>
+                <li style="z-index:999;">
+                    <a style="z-index:999;" id='homecontact'  class="page-scroll" href="/contact/">{{ with .Site.Params.navigation.links.contact }}{{ . }}{{ end }}</a>
                 </li>
 
             </ul>
@@ -29,7 +29,7 @@
     </div>
 </nav>
 
-  <!-- <form style="padding:15px 0; width:100%; text-align:center; background-color:#50b74e"  action="//mailhaven.us13.list-manage.com/subscribe/post?u=f21d21264b657f9c75ed126c8&amp;id=6e6d3d3e33" method="POST" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate container desktophide" target="_blank" >
+  <form style="padding:15px 0; width:100%; text-align:center; background-color:#50b74e"  action="//mailhaven.us13.list-manage.com/subscribe/post?u=f21d21264b657f9c75ed126c8&amp;id=6e6d3d3e33" method="POST" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate container desktophide" target="_blank" >
     <div id="topsignup" class="row" >
     <div class="col-sm-5">
       <p style='margin:0 0;float:left; padding-top:8px;margin-right:0;padding-right:0;  font-family: AlrightSans-Light;
@@ -45,36 +45,36 @@
       letter-spacing: 0px; background: #FFFFFF;
       border: 1px solid #4A4A4A;text-align:center;' type="email" value="" name="EMAIL" class="required email" id="mce-EMAIL"  required/>    </div>
     <div class="col-sm-3">
-      <input id='formbutton' style=" border:solid thin;" class="btn btn-primary btn-xl page-scroll" type='submit'  name="subscribe" id="mc-embedded-subscribe" class="button" value={{ with .Site.Params.services.formButton }}{{ . }}{{ end }}>
+      <input id='signupdesktop' style=" border:solid thin;" class="btn btn-primary btn-xl page-scroll" type='submit'  name="subscribe" id="mc-embedded-subscribe" class="button" value={{ with .Site.Params.services.formButton }}{{ . }}{{ end }}>
     </div>
   </div>
-</form> -->
+</form>
 
-<!-- <form  style="padding:15px 0; width:100%; text-align:center; background-color:#50b74e"  action="//mailhaven.us13.list-manage.com/subscribe/post?u=f21d21264b657f9c75ed126c8&amp;id=6e6d3d3e33" method="POST" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate container tablethide" target="_blank" >
+<form  style="padding:15px 0; width:100%; text-align:center; background-color:#50b74e"  action="//mailhaven.us13.list-manage.com/subscribe/post?u=f21d21264b657f9c75ed126c8&amp;id=6e6d3d3e33" method="POST" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate container tablethide" target="_blank" >
     <div class="tabletsignup" class="row" style="text-align:center;" >
-      <div class="col-sm-12" style="width:100%;" >
+      <div class="col-xs-12" style="width:100%;" >
         <p style='margin:0 0; padding-top:8px;margin-right:0;padding-right:0;  font-family: AlrightSans-Light;
         font-size: 18px;
         color: #FFFFFF;
         letter-spacing: 0px;
         text-align:center;
-        line-height: 26px;' >{{ with .Site.Params.services.formHeading }}{{ . | markdownify  }}{{ end }}</p>
+        line-height: 26px;' >Sign up for our beta release today!</p>
       </div>
   </div>
-  <br >
+  <br><br>
     <div class="row tabletsignup" style="width:100%;">
 
-    <div class="col-sm-7" >
+    <div class="col-xs-7" >
       <input id="formemail" placeholder="Email Address"  style=' margin-bottom:0;font-family: AlrightSans-Light;
       font-size: 16px;
       color: #4A4A4A;
       letter-spacing: 0px; background: #FFFFFF;
       border: 1px solid #4A4A4A;text-align:center;width:100%; margin-bottom:5px;' type="email" value="" name="EMAIL" class="required email" id="mce-EMAIL"  required/>    </div>
-    <div class="col-sm-5"  >
-      <input id='formbutton' style=" border:solid thin;width:100%;" class="btn btn-primary btn-xl page-scroll" type='submit'  name="subscribe" id="mc-embedded-subscribe" class="button" value={{ with .Site.Params.services.formButton }}{{ . }}{{ end }}>
+    <div class="col-xs-5"  >
+      <input id='signupbutton' style=" border:solid thin;width:100%;" class="btn btn-primary btn-xl page-scroll" type='submit'  name="subscribe" id="mc-embedded-subscribe" class="button" value="Submit">
     </div>
   </div>
-</form> -->
+</form>
 
 
 

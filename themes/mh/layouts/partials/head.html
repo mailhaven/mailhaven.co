@@ -50,7 +50,25 @@
                 alert('Please, Enter email address!');
             }
       };
-    
+
+      var formtop = document.getElementById('signupbutton');
+    formtop.onclick=function(event) {
+            if (document.getElementById('formemail').value=='') {
+                console.log('prevent');
+                event.preventDefault();
+                alert('Please, Enter email address!');
+            }
+      };
+
+      var formdesktop = document.getElementById('signupdesktop');
+    formdesktop.onclick=function(event) {
+            if (document.getElementById('formemail').value=='') {
+                console.log('prevent');
+                event.preventDefault();
+                alert('Please, Enter email address!');
+            }
+      };
+
 
     });
   </script>

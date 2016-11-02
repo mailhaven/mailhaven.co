@@ -11,10 +11,10 @@ html, body {
 #topsignup{
   width:70%;text-align:center;margin:0 15%;
 }
-#tablethide{
+.tablethide{
   display:none;
 }
-#desktophide{
+.desktophide{
   display:block;
 }
 #aboutbackground {

@@ -359,6 +359,13 @@
     margin: 0 10%;
     text-align: center;
   }
+  #preorderdiv {
+    padding-left: 0;
+    min-height: auto;
+    width: 80%;
+    margin: 0 10%;
+    text-align: center;
+  }
   #thankshead {
     padding-bottom: 0;
   }
@@ -526,6 +533,10 @@
   }
   #mailcontact {
     padding: 0 0 5px 0;
+    margin: 40px 40px 0px 0;
+  }
+  #mailpreorder{
+    padding: 0 0 5px 0;
     margin: 40px 40px 30px 0;
   }
   #aboutnav {
@@ -539,6 +550,10 @@
   }
   #aboutcontact {
     padding: 0 0 5px 0;
+    margin: 40px 40px 0px 0;
+  }
+  #aboutpreorder{
+    padding: 0 0 5px 0;
     margin: 40px 40px 30px 0;
   }
   #homeabout {
@@ -551,6 +566,10 @@
   }
   #homecontact {
     padding: 0 0 5px 0;
+    margin: 40px 40px 0px 0;
+  }
+  #homepreorder{
+    padding: 0 0 5px 0;
     margin: 40px 40px 30px 0;
   }
   #appabout {
@@ -562,6 +581,10 @@
     margin: 40px 40px 0 0;
   }
   #appcontact {
+    padding: 0 0 5px 0;
+    margin: 40px 40px 0px 0;
+  }
+  #apppreorder{
     padding: 0 0 5px 0;
     margin: 40px 40px 30px 0;
   }
@@ -576,6 +599,10 @@
   }
   #blogcontact {
     padding: 0 0 5px 0;
+    margin: 40px 40px 0px 0;
+  }
+  #blogpreorder{
+    padding: 0 0 5px 0;
     margin: 40px 40px 30px 0;
   }
   #blogsabout {
@@ -588,6 +615,10 @@
     margin: 40px 40px 0 0;
   }
   #blogscontact {
+    padding: 0 0 5px 0;
+    margin: 40px 40px 0px 0;
+  }
+  #blogspreorder{
     padding: 0 0 5px 0;
     margin: 40px 40px 30px 0;
   }
@@ -602,6 +633,10 @@
   #forcontact {
     border-bottom: none;
     padding: 0 0 5px 0;
+    margin: 40px 40px 0px 0;
+  }
+  #contactpreorder{
+    padding: 0 0 5px 0;
     margin: 40px 40px 30px 0;
   }
   #thanksabout {
@@ -613,6 +648,27 @@
     margin: 40px 40px 0 0;
   }
   #thankscontact {
+    padding: 0 0 5px 0;
+    margin: 40px 40px 0px 0;
+  }
+  #thankspreorder{
+    padding: 0 0 5px 0;
+    margin: 40px 40px 30px 0;
+  }
+  #preorderabout {
+    padding: 0 0 5px 0;
+    margin: 40px 40px 0 100px;
+  }
+  #preorderblog {
+    padding: 0 0 5px 0;
+    margin: 40px 40px 0 0;
+  }
+  #preordercontact {
+    padding: 0 0 5px 0;
+    margin: 40px 40px 0px 0;
+  }
+  #preordernav{
+    border-bottom: none;
     padding: 0 0 5px 0;
     margin: 40px 40px 30px 0;
   }
@@ -1134,6 +1190,13 @@
     background-image: none;
   }
   #mailboxdiv {
+    padding-left: 0;
+    min-height: auto;
+    width: 80%;
+    margin: 0 10%;
+    text-align: center;
+  }
+  #preorderdiv {
     padding-left: 0;
     min-height: auto;
     width: 80%;
@@ -1810,6 +1873,13 @@
     margin: 0 10%;
     text-align: center;
   }
+  #preorderdiv {
+    padding-left: 0;
+    min-height: auto;
+    width: 80%;
+    margin: 0 10%;
+    text-align: center;
+  }
   #thankshead {
     padding-bottom: 0;
   }
@@ -2230,6 +2300,13 @@
     margin: 0 10%;
     text-align: center;
   }
+  #preorderdiv {
+    padding-left: 0;
+    min-height: auto;
+    width: 80%;
+    margin: 0 10%;
+    text-align: center;
+  }
   #thankshead {
     padding-bottom: 0;
   }
@@ -2358,6 +2435,13 @@
     margin-top: 10%;
   }
 }
+@media only screen and (min-device-width: 769px) and (max-device-width: 1094px),
+  only screen and (min-width: 769px) and (max-width: 1094px){
+    #topsignup{
+    width:80%;
+    margin-left:10%;
+  }
+  }
 
 /*@media only screen and (max-device-width:767px),
   only screen and (max-width:767px){

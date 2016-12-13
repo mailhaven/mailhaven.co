@@ -26,6 +26,7 @@ SectionPagesMenu = "main"
 			about     = "About"
 			blog  = "Blog"
 			contact   = "Contact"
+			preorder="Preorder"
 
 
 

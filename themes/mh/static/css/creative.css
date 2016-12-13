@@ -85,6 +85,13 @@ html, body {
   width: 50%;
   text-align: left;
 }
+#preorderdiv {
+  min-height: auto;
+  text-align: center;
+  width:50%;
+  margin:0 25% 0 25%;
+  padding-left:0;
+}
 #thanksmobileimage {
   display: none;
 }
@@ -458,7 +465,11 @@ nav {
 }
 #mailcontact {
   padding: 0 0 5px 0;
-  margin: 40px 0px 0 0;
+  margin: 40px 40px 0 0;
+}
+#mailpreorder{
+  padding: 0 0 5px 0;
+  margin: 40px 0 0 0;
 }
 #aboutnav {
   border-bottom: solid 2px #50b74e;
@@ -470,6 +481,10 @@ nav {
   margin: 40px 40px 0 0;
 }
 #aboutcontact {
+  padding: 0 0 5px 0;
+  margin: 40px 40px 0 0;
+}
+#aboutpreorder{
   padding: 0 0 5px 0;
   margin: 40px 0 0 0;
 }
@@ -483,6 +498,10 @@ nav {
 }
 #homecontact {
   padding: 0 0 5px 0;
+  margin: 40px 40px 0 0;
+}
+#homepreorder{
+  padding: 0 0 5px 0;
   margin: 40px 0 0 0;
 }
 #appabout {
@@ -494,6 +513,10 @@ nav {
   margin: 40px 40px 0 0;
 }
 #appcontact {
+  padding: 0 0 5px 0;
+  margin: 40px 40px 0 0;
+}
+#apppreorder{
   padding: 0 0 5px 0;
   margin: 40px 0px 0 0;
 }
@@ -508,6 +531,10 @@ nav {
 }
 #blogcontact {
   padding: 0 0 5px 0;
+  margin: 40px 40px 0 0;
+}
+#blogpreorder{
+  padding: 0 0 5px 0;
   margin: 40px 0 0 0;
 }
 #blogsabout {
@@ -520,6 +547,10 @@ nav {
   margin: 40px 40px 0 0;
 }
 #blogscontact {
+  padding: 0 0 5px 0;
+  margin: 40px 40px 0 0;
+}
+#blogspreorder{
   padding: 0 0 5px 0;
   margin: 40px 0 0 0;
 }
@@ -534,6 +565,10 @@ nav {
 #forcontact {
   border-bottom: solid 2px #50b74e;
   padding: 0 0 5px 0;
+  margin: 40px 40px 0 0;
+}
+#contactpreorder{
+  padding: 0 0 5px 0;
   margin: 40px 0 0 0;
 }
 #thanksabout {
@@ -545,6 +580,27 @@ nav {
   margin: 40px 40px 0 0;
 }
 #thankscontact {
+  padding: 0 0 5px 0;
+  margin: 40px 40px 0 0;
+}
+#thankspreorder{
+  padding: 0 0 5px 0;
+  margin: 40px 0 0 0;
+}
+#preorderabout {
+  padding: 0 0 5px 0;
+  margin: 40px 40px 0 100px;
+}
+#preorderblog {
+  padding: 0 0 5px 0;
+  margin: 40px 40px 0 0;
+}
+#preordercontact {
+  padding: 0 0 5px 0;
+  margin: 40px 40px 0 0;
+}
+#preordernav{
+  border-bottom: solid 2px #50b74e;
   padding: 0 0 5px 0;
   margin: 40px 0 0 0;
 }

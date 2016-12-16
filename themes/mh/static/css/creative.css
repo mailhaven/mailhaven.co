@@ -1,3 +1,4 @@
+
 html, body {
   width: auto;
   height: auto;
@@ -286,6 +287,61 @@ form #formemail {
   height: 45px;
   margin: 0 0 5% 0;
 }
+form #preinterest {
+  font-family: AlrightSans-Light;
+  font-size: 16px;
+  color: #4A4A4A;
+  letter-spacing: 0px;
+  background: #FFFFFF;
+  border: 1px solid #4A4A4A;
+  width: 100%;
+  margin: 0 0 5% 0;
+}
+form #heademail{
+  font-family: AlrightSans-Light;
+  font-size: 16px;
+  color: #4A4A4A;
+  letter-spacing: 0px;
+  background: #FFFFFF;
+  border: 1px solid #4A4A4A;
+  width: 100%;
+  height: 45px;
+  margin: 0 0 5% 0;
+}
+form #mobileemail{
+  font-family: AlrightSans-Light;
+  font-size: 16px;
+  color: #4A4A4A;
+  letter-spacing: 0px;
+  background: #FFFFFF;
+  border: 1px solid #4A4A4A;
+  width: 100%;
+  height: 45px;
+  margin: 0 0 5% 0;
+}
+form #ctaformemail{
+  font-family: AlrightSans-Light;
+  font-size: 16px;
+  color: #4A4A4A;
+  letter-spacing: 0px;
+  background: #FFFFFF;
+  border: 1px solid #4A4A4A;
+  width: 100%;
+  height: 45px;
+  margin: 0 0 5% 0;
+}
+form #aformemail, form #mailboxemail, form #preorderemail, form #prezip, form #contactemail, form #contactsubject{
+  font-family: AlrightSans-Light;
+  font-size: 16px;
+  color: #4A4A4A;
+  letter-spacing: 0px;
+  background: #FFFFFF;
+  border: 1px solid #4A4A4A;
+  width: 100%;
+  height: 45px;
+  margin: 0 0 5% 0;
+}
+
 form #formname {
   font-family: AlrightSans-Light;
   font-size: 16px;
@@ -308,6 +364,10 @@ form #formlast {
   width: 48%;
   margin-bottom: 5%;
   height: 45px;
+}
+#pretopdiv{
+  width:65%;
+  margin:0 20% 0 15%
 }
 #footerdiv {
   background-color: #000;
@@ -405,6 +465,13 @@ form #formlast {
   padding-top: 100px;
   float: left;
   width: 45%;
+}
+#prethanksform {
+  height: auto;
+  padding: 0;
+  padding:20px 0 20px 0;
+  margin:0 30% 0 20%;
+  width: 50%;
 }
 #appmain {
   float: left;

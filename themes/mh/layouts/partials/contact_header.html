@@ -56,21 +56,17 @@ letter-spacing: 0px;
 
 <form id='mhcontactform' method='POST' style="text-align:left;">
 
-
-
-
-
 <input style='margin-left:0; padding-left:0;color:#000; border:1px solid black;' id="formname" type="text" name="First Name" placeholder="   First Name">   <input style='border:1px solid black;color:#000;' id="formlast" type="text" name="Last Name" placeholder="   Last Name">
 
-<input style='margin-left:0; padding-left:0;color:#000; border:1px solid black;' id="formemail" type="text" name="_replyto" placeholder="   Email Address" required>
-<input style='margin-left:0; padding-left:0;color:#000; border:1px solid black;'id="formemail" type="text" name="_subject" placeholder="   Subject Line" required>
+<input style='margin-left:0; padding-left:0;color:#000; border:1px solid black;' id="contactemail" type="email" name="_replyto" placeholder="   Email Address" required>
+<input style='margin-left:0; padding-left:0;color:#000; border:1px solid black;'id="contactsubject" type="text" name="_subject" placeholder="   Subject Line" required>
 <textarea style='font-family: AlrightSans-Light;
 font-size: 16px;
 color: #4A4A4A;
 letter-spacing: 0px; background: #FFFFFF;  margin:0 0 5% 0; color:#000; padding-left:0;border:1px solid black;width:100%;'   rows="4"  name="Message" placeholder="   Message"></textarea></br></br></br>
 <input type="hidden" name="_next" value="/thank-you" />
 <input type="text" name="_gotcha" style="display:none" />
-<center><input style="width:200px;" id='formbutton' class="btn btn-primary btn-xl page-scroll"  type='submit' value=Send></center>
+<center><input style="width:200px;" id='contactbutton' class="btn btn-primary btn-xl page-scroll"  type='submit' value=Send></center>
 
 
 </form>
@@ -82,6 +78,19 @@ letter-spacing: 0px; background: #FFFFFF;  margin:0 0 5% 0; color:#000; padding-
 <script>
     var contactform =  document.getElementById('mhcontactform');
     contactform.setAttribute('action', '//formspree.io/' + 'kela' + '@' + 'mailhaven' + '.' + 'co');
+    var formcontact = document.getElementById('contactbutton');
+  formcontact.onclick=function(event) {
+    var x = document.getElementById('contactemail').value;
+    var y = document.getElementById('contactsubject').value;
+
+    var atpos = x.indexOf("@");
+    var dotpos = x.lastIndexOf(".");
+      if (x==='' || atpos<1 || dotpos<atpos+2 || dotpos+2>=x.length || y==="" ) {
+                      console.log('prevent');
+              event.preventDefault();
+              alert('Please enter email address and subject!');
+          }
+    };
 </script>
 </div>
 

@@ -41,33 +41,47 @@
 <!-- <link rel="stylesheet" href="{{ .Site.BaseURL }}css/mobilemh.css" type="text/css"> -->
 <script>
     document.addEventListener("DOMContentLoaded", function(e) {
-    var form = document.getElementsByTagName('form');
       var formb = document.getElementById('formbutton');
     formb.onclick=function(event) {
-            if (document.getElementById('formemail').value=='') {
-                console.log('prevent');
+      var x = document.getElementById('ctaformemail').value;
+      var atpos = x.indexOf("@");
+      var dotpos = x.lastIndexOf(".");
+        if (x==='' || atpos<1 || dotpos<atpos+2 || dotpos+2>=x.length ) {
+                        console.log('prevent');
                 event.preventDefault();
-                alert('Please, Enter email address!');
+                alert('Please enter email address!');
             }
       };
 
+
       var formtop = document.getElementById('signupbutton');
     formtop.onclick=function(event) {
-            if (document.getElementById('formemail').value=='') {
+          var x = document.getElementById('mobileemail').value;
+       var atpos = x.indexOf("@");
+       var dotpos = x.lastIndexOf(".");
+            if (x==='' || atpos<1 || dotpos<atpos+2 || dotpos+2>=x.length ) {
                 console.log('prevent');
                 event.preventDefault();
-                alert('Please, Enter email address!');
+                alert('Please enter email address!');
             }
       };
 
       var formdesktop = document.getElementById('signupdesktop');
     formdesktop.onclick=function(event) {
-            if (document.getElementById('formemail').value=='') {
-                console.log('prevent');
+      var x = document.getElementById('heademail').value;
+    var atpos = x.indexOf("@");
+    var dotpos = x.lastIndexOf(".");
+        if (x==='' || atpos<1 || dotpos<atpos+2 || dotpos+2>=x.length ) {
+                       console.log('prevent');
                 event.preventDefault();
-                alert('Please, Enter email address!');
+                alert('Please enter email address!');
             }
       };
+
+
+
+
+
 
 
     });

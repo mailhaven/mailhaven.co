@@ -1,10 +1,10 @@
 +++
 
-date = "2016-10-31" 
-title = "Preorder" 
+date = "2016-10-31"
+title = "Preorder"
 meta_title = "Preorder"
-author = "Kela Ivonye" 
-author_twitter = "Zabimaru_Ichigo" 
+author = "Kela Ivonye"
+author_twitter = "Zabimaru_Ichigo"
 slug="/preorder"
 aliases = [ "blog/2016/10/31/preorder" ]
 
@@ -23,8 +23,8 @@ We will be running a 20 unit pilot in late November to test out the new full fun
 	•	Willing to test the device and give feedback on the device use
 	•	Understanding that the Mailhaven prototype may not work 100% of the time.
 	•	Willing to purchase the unit for $500, it is refundable if you do not receive a unit or there is a delay in installation.
-	
+
 Ofcourse, there are benefits of being part of this pilot. Participants will be among the first people in the United States to have a smart package mailbox, they will get a free Mailhaven replacement for life and will pay no monthly fee for the mailhaven for two years (Mailhaven is powered by 3G, therefore having monthly data charges). In addition, we will consider all feedback for pilot participants and will work hand in hand with their suggestions to design the next iteration of the Mailhaven unit.
 
-If you are interested in participating in the pilot or learning more about what we are doing at Mailhaven, sign up for updates [here](https://mailhaven.co/contact/). 
+If you are interested in participating in the pilot or learning more about what we are doing at Mailhaven, sign up for updates [here](https://mailhaven.co/preorder/). 
 <img style="width:90%; height:100%; border-radius:0; margin:5% 5%;" src="/img/preorder3.jpeg">
